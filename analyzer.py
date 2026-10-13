@@ -16,7 +16,7 @@ MIN_RUNS, MIN_RATE = 3, 0.8
 DOMAINS = {
     "database": r"\b(sql\w*|postgres\w*|database|schema|migration|orm)\b|verilənlər bazası",
     "backend": r"\b(api|endpoint|server|backend|flask|fastapi|django|rest|crud|auth\w*)\b",
-    "algorithm": r"\b(algorithm|alqoritm|sort\w*|search|tree|graph|recursi\w*|cache|evict\w*|parse|convert\w*)\b",
+    "algorithm": r"\b(algorithm|alqoritm|sort\w*|search|tree|graph|recursi\w*|\w*cache\w*|lru|evict\w*|parse|convert\w*)\b",
     "cli": r"\b(cli|command|argv|terminal)\b",
     "frontend": r"\b(ui|frontend|react|html|css|page|component|button|form|dashboard|səhifə|düymə)\b",
 }
@@ -77,7 +77,7 @@ def analyze(task: str) -> dict:
     f = features(task)
     s = score(f)
     lv = level(f, s)
-    doms = f["domains"] or ["general"]
+    doms = f["domains"] or (["algorithm"] if f["deliverables"] else ["general"])
     if lv == "simple":
         doms = doms[:1]
     subtasks = [
