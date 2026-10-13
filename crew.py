@@ -35,6 +35,7 @@ FORMAT_HINT = (
 )
 BLOCK = re.compile(FENCE + r"([\w+-]*)[ \t]*\n(.*?)" + FENCE, re.S)
 PATH_RE = re.compile(r"([\w][\w./-]*\.(?:py|js|ts|html|css|json|md|txt|toml|sh))", re.I)
+STATS = {"in": 0, "out": 0, "calls": 0}
 
 
 class S(TypedDict, total=False):
@@ -61,6 +62,9 @@ def ask(model: str, system: str, prompt: str, ctx: int = 8192,
         keep_alive=0,
         **extra,
     )
+    STATS["in"] += getattr(r, "prompt_eval_count", 0) or 0
+    STATS["out"] += getattr(r, "eval_count", 0) or 0
+    STATS["calls"] += 1
     text = r["message"]["content"]
     return re.sub(r"<think>.*?</think>", "", text, flags=re.S).strip()
 
@@ -238,6 +242,7 @@ app = g.compile()
 
 if __name__ == "__main__":
     final = app.invoke({"task": " ".join(sys.argv[1:])})
+    print(f"TOKENS in={STATS['in']} out={STATS['out']} calls={STATS['calls']}")
     if final["errors"]:
         if final.get("good"):
             write_files(final["good"])

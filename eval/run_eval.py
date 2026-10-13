@@ -3,6 +3,7 @@
 import argparse
 import json
 import os
+import re
 import shlex
 import shutil
 import subprocess
@@ -47,6 +48,7 @@ def run_task(name, label):
     passed = t_rc == 0
     rec = {"label": label, "task": name, "passed": passed, "agent_rc": a_rc,
            "secs": round(secs, 1), "tries": a_out.count("coder işləyir"),
+           "tokens": (re.findall(r"TOKENS in=(\d+) out=(\d+)", a_out) or [("0", "0")])[-1],
            "workdir": str(work),
            "agent_tail": a_out[-400:], "test_tail": t_out[-400:]}
     if passed:
