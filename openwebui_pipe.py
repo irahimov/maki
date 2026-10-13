@@ -1,7 +1,7 @@
 """
 title: MAKI Crew
 author: makish
-version: 0.2
+version: 0.3
 description: planner -> coder -> ruff/pytest pipeline (ai-env agent)
 """
 import os
@@ -11,7 +11,7 @@ import subprocess
 from pydantic import BaseModel, Field
 
 ANSI = re.compile(r"\x1b\[[0-9;]*[A-Za-z]")
-LOGO = set("█╗╔╝╚║═")
+LOGO = set("\u2588\u2557\u2554\u255d\u255a\u2551\u2550")
 
 
 class Pipe:
@@ -40,15 +40,15 @@ class Pipe:
             return
         task = self._last_user_text(body)
         if not task:
-            yield "Tapşırıq boşdur."
+            yield "Tap\u015f\u0131r\u0131q bo\u015fdur."
             return
         if not os.path.isdir(self.valves.PROJECT_DIR):
-            yield f"Qovluq tapılmadı: {self.valves.PROJECT_DIR}"
+            yield f"Qovluq tap\u0131lmad\u0131: {self.valves.PROJECT_DIR}"
             return
 
         env = dict(os.environ, PYTHONUNBUFFERED="1")
         env["MAKI_REVIEW"] = "1" if self.valves.REVIEW else "0"
-        yield f"📁 `{self.valves.PROJECT_DIR}`\n\n```\n"
+        yield f"\U0001F4C1 `{self.valves.PROJECT_DIR}`\n\n```\n"
         proc = subprocess.Popen(
             [self.valves.AI_ENV, "agent", task],
             cwd=self.valves.PROJECT_DIR,
@@ -57,6 +57,8 @@ class Pipe:
             stdout=subprocess.PIPE,
             stderr=subprocess.STDOUT,
             text=True,
+            encoding="utf-8",
+            errors="replace",
             bufsize=1,
         )
         for line in proc.stdout:
@@ -67,6 +69,9 @@ class Pipe:
         rc = proc.wait()
         yield "```\n\n"
         if rc == 0:
-            yield "✅ Bitdi. Terminalda `cd ~/maki-projects/playground && ai-env accept` (və ya `ai-env reject`)."
+            yield (
+                "\u2705 Bitdi. Terminalda `cd ~/maki-projects/playground "
+                "&& ai-env accept` (v\u0259 ya `ai-env reject`)."
+            )
         else:
-            yield f"❌ Xəta (kod {rc})."
+            yield f"\u274c X\u0259ta (kod {rc})."
