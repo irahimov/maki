@@ -20,3 +20,7 @@ Modellər: qwen-coder-8k (coder, ctx 8192, num_gpu 99, 39 tok/s), qwen3:4b (plan
 - crew.py-ni yamaqla yox, bütöv fayl kimi yaz
 - iş gedərkən terminala yapışdırma, uzun işləri nohup ilə işlət
 - bir dəyişiklik, sonra eyni eval, sonra müqayisə
+
+## Baseline (2026-10-13): planner + coder + ruff/pytest, reviewer və RAG söndürülü
+5/5 keçdi, orta 98.8s: flatten_list 80.3s/1 cəhd, lru_simple 103.4s/3, roman 86.6s/1, text_slug 152.1s/1, word_count 71.4s/1
+Dəyişikliklər: analyzer regex və algorithm fallback (eaf0786), maki-test verify ok:True, ~/maki git repo, Windows ehtiyatı C:\maki-backup
