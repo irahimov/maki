@@ -1,0 +1,1 @@
+Create lru_simple.py with class LRUCache(capacity: int): put(key, value), get(key) returning the value or None. Evict the least recently used item when capacity is exceeded; get and put both count as use. capacity <= 0 raises ValueError. Include tests.

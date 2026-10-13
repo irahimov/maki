@@ -1,0 +1,1 @@
+Create text_slug.py with function slugify(text: str) -> str: lowercase the text, keep only ASCII letters and digits, replace every run of other characters with a single hyphen, strip hyphens from both ends. Include tests.

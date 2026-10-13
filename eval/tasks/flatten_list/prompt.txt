@@ -1,0 +1,1 @@
+Create flatten_list.py with function flatten(items: list) -> list that recursively flattens arbitrarily nested lists into one flat list. Strings must NOT be split into characters. Include tests.

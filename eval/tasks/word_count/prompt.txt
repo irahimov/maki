@@ -1,0 +1,1 @@
+Create word_count.py with function word_count(text: str) -> dict[str, int]: words are runs of letters and digits, case-insensitive (lowercase keys). Include tests.
