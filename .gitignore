@@ -3,3 +3,4 @@ __pycache__/
 .env
 .maki-*
 eval/baseline*.log
+eval/*.log
