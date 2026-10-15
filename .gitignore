@@ -4,3 +4,4 @@ __pycache__/
 .maki-*
 eval/baseline*.log
 eval/*.log
+eval/runs/

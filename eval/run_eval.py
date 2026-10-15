@@ -15,6 +15,7 @@ from pathlib import Path
 EVAL = Path(__file__).resolve().parent
 TASKS = EVAL / "tasks"
 RESULTS = EVAL / "results.jsonl"
+RUNS = EVAL / "runs"
 AGENT_CMD = os.environ.get("MAKI_EVAL_CMD", "ai-env agent")
 
 
@@ -32,7 +33,8 @@ def sh(cmd, cwd, env=None, timeout=900):
 def run_task(name, label):
     tdir = TASKS / name
     prompt = (tdir / "prompt.txt").read_text().strip()
-    work = Path(tempfile.mkdtemp(prefix=f"eval-{name}-"))
+    RUNS.mkdir(exist_ok=True)
+    work = Path(tempfile.mkdtemp(prefix=f"eval-{name}-", dir=RUNS))
     sh(["git", "init", "-q", "-b", "main"], work)
     (work / ".gitignore").write_text("__pycache__\n.pytest_cache\n.ruff_cache\n.maki-*\n")
     sh(["git", "add", "-A"], work)
