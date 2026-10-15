@@ -61,11 +61,12 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--label", required=True)
     ap.add_argument("--task", action="append")
+    ap.add_argument("--repeat", type=int, default=1)
     args = ap.parse_args()
 
     names = args.task or sorted(p.name for p in TASKS.iterdir() if p.is_dir())
     recs = []
-    for n in names:
+    for n in names * args.repeat:
         print(f"[{args.label}] {n} ...", flush=True)
         rec = run_task(n, args.label)
         recs.append(rec)

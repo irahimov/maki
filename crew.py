@@ -90,7 +90,14 @@ def plan(s: S) -> S:
     prompt = s["task"]
     if existing:
         prompt += "\n\nExisting modules (reuse, do not duplicate): " + ", ".join(existing)
-    plan_text = ask(PLANNER, PLANNER_RULES, prompt, 6144, think=False)
+    mode = os.environ.get("MAKI_PLAN", "qwen3")
+    print(f"  plan rejimi: {mode}")
+    if mode == "skip":
+        plan_text = "(no separate plan: follow the task description exactly)"
+    elif mode == "coder":
+        plan_text = ask(CODER, PLANNER_RULES, prompt, 6144)
+    else:
+        plan_text = ask(PLANNER, PLANNER_RULES, prompt, 6144, think=False)
     return {"plan": plan_text, "ctx": project_context(s["task"])}
 
 
