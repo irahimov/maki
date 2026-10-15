@@ -34,3 +34,8 @@ Qərar: analyzer simple -> plansız (MAKI_PLAN=auto, defolt). Məhdudiyyət: eva
 ref 10/10 107s | skip 15/15 21s | coder 15/15 38s | auto 5/5 27s. Keçmə və cəhd sayı eyni, plan yalnız vaxt və token yeyir
 lru_simple plan-coder, auto və baseline-da 3 cəhd tələb edib (limitin kənarı)
 Eval doymuşdur. Orta çətinlik: eval/tasks/m_* (5 tapşırıq, 2 fayllı), etiketlər m-skip, m-coder, m-qwen3
+
+## Plan təcrübəsi, yekun (sadə tapşırıqlar)
+ref 10/10 107s | skip 15/15 21s | coder 15/15 38s | auto 5/5 27s. Keçmə və cəhd sayı eyni, plan yalnız vaxt və token yeyir
+lru_simple plan-coder, auto və baseline-da 3 cəhd tələb edib (limitin kənarı)
+Eval doymuşdur. Orta çətinlik: eval/tasks/m_* (5 tapşırıq, 2 fayllı), etiketlər m-skip, m-coder, m-qwen3
