@@ -39,3 +39,8 @@ Eval doymuşdur. Orta çətinlik: eval/tasks/m_* (5 tapşırıq, 2 fayllı), eti
 ref 10/10 107s | skip 15/15 21s | coder 15/15 38s | auto 5/5 27s. Keçmə və cəhd sayı eyni, plan yalnız vaxt və token yeyir
 lru_simple plan-coder, auto və baseline-da 3 cəhd tələb edib (limitin kənarı)
 Eval doymuşdur. Orta çətinlik: eval/tasks/m_* (5 tapşırıq, 2 fayllı), etiketlər m-skip, m-coder, m-qwen3
+
+## m_* eksperimenti (2026-10-15): NƏTİCƏLƏR ÇİRKLİDİR
+results.jsonl-da m-skip 20, m-coder 16, m-qwen3 10 sətir (gözlənilən 10 hər biri), etiketlər qarışıq: batch paralel iki dəfə işləmiş görünür. Qrupları müqayisə etmə
+Müşahidələr: m_inventory-də ehtimal self.stock atributu stock() metodunu kölgələyir; agent öz testləri ilə keçdi deyir, gizli test düşür (3 hal); qwen3 planner 6/10 TIMEOUT (paralel işdən ola bilər)
+Növbəti: gizli testləri etalon həllə qarşı təsdiqlə (eval/validate_tests.sh), sonra flock ilə təmiz qaçış
