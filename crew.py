@@ -90,7 +90,18 @@ def plan(s: S) -> S:
     prompt = s["task"]
     if existing:
         prompt += "\n\nExisting modules (reuse, do not duplicate): " + ", ".join(existing)
-    mode = os.environ.get("MAKI_PLAN", "qwen3")
+    mode = os.environ.get("MAKI_PLAN", "auto")
+    if mode == "auto":
+        try:
+            sys.path.insert(0, str(Path.home() / "maki"))
+            import analyzer
+
+            res = analyzer.analyze(s["task"])
+            mode = "skip" if res["level"] == "simple" else "qwen3"
+            print(f"  analyzer: {res['level']} (bal {res['score']})")
+        except Exception as e:
+            print(f"  analyzer işləmədi ({e}), planner istifadə olunur")
+            mode = "qwen3"
     print(f"  plan rejimi: {mode}")
     if mode == "skip":
         plan_text = "(no separate plan: follow the task description exactly)"
