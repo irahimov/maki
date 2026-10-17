@@ -44,3 +44,8 @@ Eval doymuşdur. Orta çətinlik: eval/tasks/m_* (5 tapşırıq, 2 fayllı), eti
 results.jsonl-da m-skip 20, m-coder 16, m-qwen3 10 sətir (gözlənilən 10 hər biri), etiketlər qarışıq: batch paralel iki dəfə işləmiş görünür. Qrupları müqayisə etmə
 Müşahidələr: m_inventory-də ehtimal self.stock atributu stock() metodunu kölgələyir; agent öz testləri ilə keçdi deyir, gizli test düşür (3 hal); qwen3 planner 6/10 TIMEOUT (paralel işdən ola bilər)
 Növbəti: gizli testləri etalon həllə qarşı təsdiqlə (eval/validate_tests.sh), sonra flock ilə təmiz qaçış
+
+## m4-cap (2026-10-16)
+crew.py: num_predict=3000, çağırış timeout 300s, MAKI_PLAN=auto artıq həmişə skip. m4-cap: 1/10 (m2-skip 3/10), 0 timeout. Fərq statistik ayırd edilmir (n=10).
+Timeout-lar yalnız uzun promptlu rejimlərdə olub: qwen3 planner 6/10, coder planner 2/10, MAKI_FULLFAIL=1 4/10. skip rejimində heç vaxt. Düzəliş hələ timeout-a meylli konfiqurasiyada sınanmayıb (m5-fullcap gözləyir).
+Təkrarlanan uğursuzluq: boş girişdə indeksləmə (busy[0], rows[0], pop from empty list) m_intervals, m_csv, m_calc-da.
