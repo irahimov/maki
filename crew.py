@@ -207,9 +207,11 @@ def check(s: S) -> S:
     if not tests:
         errs.append("Missing test file: write test_*.py")
     elif not errs:
-        rc, out = run([sys.executable, "-m", "pytest", "-q", "-x", *tests])
+        full = os.environ.get("MAKI_FULLFAIL") == "1"
+        flags = ["--tb=short"] if full else ["-x"]
+        rc, out = run([sys.executable, "-m", "pytest", "-q", *flags, *tests])
         if rc:
-            errs.append(out[-2000:])
+            errs.append(out[-(3500 if full else 2000):])
     print("✅ yoxlama keçdi" if not errs else "⚠ xəta tapıldı, düzəldilir")
     if errs:
         return {"errors": "\n".join(errs)}
