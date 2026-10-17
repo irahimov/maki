@@ -36,6 +36,16 @@ FORMAT_HINT = (
 BLOCK = re.compile(FENCE + r"([\w+-]*)[ \t]*\n(.*?)" + FENCE, re.S)
 PATH_RE = re.compile(r"([\w][\w./-]*\.(?:py|js|ts|html|css|json|md|txt|toml|sh))", re.I)
 STATS = {"in": 0, "out": 0, "calls": 0}
+NUM_PREDICT = int(os.environ.get("MAKI_NUM_PREDICT", "3000"))
+CLIENT = ollama.Client(timeout=float(os.environ.get("MAKI_CALL_TIMEOUT", "300")))
+
+
+def _chat(**kw):
+    try:
+        return CLIENT.chat(**kw)
+    except Exception as e:
+        print(f"⚠ model çağırışı uğursuz oldu ({type(e).__name__}), boş cavab")
+        return None
 
 
 class S(TypedDict, total=False):
@@ -52,16 +62,19 @@ class S(TypedDict, total=False):
 def ask(model: str, system: str, prompt: str, ctx: int = 8192,
         think: bool | None = None) -> str:
     extra = {} if think is None else {"think": think}
-    r = ollama.chat(
+    r = _chat(
         model=model,
         messages=[
             {"role": "system", "content": system},
             {"role": "user", "content": prompt},
         ],
-        options={"num_ctx": ctx, "temperature": 0.2, "num_gpu": 99},
+        options={"num_ctx": ctx, "temperature": 0.2, "num_gpu": 99,
+                 "num_predict": NUM_PREDICT},
         keep_alive=0,
         **extra,
     )
+    if r is None:
+        return ""
     STATS["in"] += getattr(r, "prompt_eval_count", 0) or 0
     STATS["out"] += getattr(r, "eval_count", 0) or 0
     STATS["calls"] += 1
@@ -97,7 +110,7 @@ def plan(s: S) -> S:
             import analyzer
 
             res = analyzer.analyze(s["task"])
-            mode = "skip" if res["level"] == "simple" else "qwen3"
+            mode = "skip"  # ölçmələrdə heç bir planner skip-dən yaxşı deyildi
             print(f"  analyzer: {res['level']} (bal {res['score']})")
         except Exception as e:
             print(f"  analyzer işləmədi ({e}), planner istifadə olunur")
