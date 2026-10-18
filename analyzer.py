@@ -4,12 +4,13 @@
   analyzer.py record <tier> <domain> <level> pass|fail
 """
 import json
+import os
 import re
 import sys
 from pathlib import Path
 
 TIERS = ["local", "cloud-mid", "cloud-strong"]
-TABLE = Path.home() / "maki/capabilities.json"
+TABLE = Path(os.environ.get("MAKI_HOME", Path(__file__).resolve().parent)) / "capabilities.json"
 MIN_RUNS, MIN_RATE = 3, 0.8
 
 # asılılıq sırası ilə (əvvəlkilər əvvəl icra olunur)

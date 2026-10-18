@@ -16,8 +16,8 @@ LOGO = set("\u2588\u2557\u2554\u255d\u255a\u2551\u2550")
 
 class Pipe:
     class Valves(BaseModel):
-        PROJECT_DIR: str = Field(default="/home/makish/maki-projects/playground")
-        AI_ENV: str = Field(default="/home/makish/.local/bin/ai-env")
+        PROJECT_DIR: str = Field(default=os.path.expanduser("~/maki-projects/playground"))
+        AI_ENV: str = Field(default=os.path.expanduser("~/.local/bin/ai-env"))
         REVIEW: bool = Field(default=False)
 
     def __init__(self):

@@ -9,7 +9,7 @@ from pathlib import Path
 
 rows = [
     json.loads(line)
-    for line in (Path.home() / "maki/eval/results.jsonl").read_text().splitlines()
+    for line in (Path(__file__).resolve().parent / "results.jsonl").read_text().splitlines()
     if line.strip()
 ]
 labels = sys.argv[1:] or ["m2-skip", "m2-coder"]

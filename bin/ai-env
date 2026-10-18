@@ -1,0 +1,88 @@
+#!/bin/bash
+
+~/.ai-env/bin/python3 -c "import pyfiglet; print('\033[1;37m' + pyfiglet.figlet_format('MAKI', font='ansi_shadow') + '\033[0m')" 2>/dev/null || echo "MAKI"
+
+ensure_ollama() {
+    curl -s localhost:11434 >/dev/null && return
+    echo "⚙️  Ollama başladılır..."
+    (set -a; . ~/.ollama-env; set +a; nohup ollama serve > ~/.ollama.log 2>&1 &)
+    sleep 3
+}
+
+case "$1" in
+    vram)
+        watch -n 1 nvidia-smi
+        ;;
+    clean)
+        ollama ps | awk 'NR>1 {print $1}' | xargs -r -n1 ollama stop
+        echo "✅ VRAM boşaldıldı."
+        ;;
+    stop)
+        pkill -f open-webui && echo "🛑 WebUI dayandırıldı" || echo "WebUI işləmir"
+        ;;
+    doctor)
+        echo "== GPU =="; nvidia-smi --query-gpu=memory.used,memory.total --format=csv,noheader
+        echo "== Yüklü modellər =="; ollama ps
+        echo "== Disk =="; df -h ~ | tail -1
+        echo "== Ollama env =="; cat ~/.ollama-env
+        echo "== Paketlər =="
+        "${MAKI_ENV:-$HOME/.maki-env}"/bin/python -m pip list --format=freeze 2>/dev/null | grep -Ei 'langgraph|ollama|fastmcp|chromadb|ruff|pytest'
+        ;;
+    agent)
+        shift
+        [ -z "$*" ] && { echo "İstifadə: ai-env agent \"tapşırıq\""; exit 1; }
+        ensure_ollama
+        TASK="$*"
+        IN_GIT=0
+        if git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
+            IN_GIT=1
+            BASE=$(git branch --show-current)
+            case "$BASE" in
+                maki/*) echo "⚠️  Hazırda maki/ branch-dasan. Əvvəlcə main-ə keç və ya merge et."; exit 1 ;;
+            esac
+            if [ -n "$(git status --porcelain)" ]; then
+                echo "⚠️  İş qovluğu təmiz deyil. Əvvəlcə commit et və ya git stash et."
+                exit 1
+            fi
+            git checkout -q -b "maki/$(date +%m%d-%H%M)"
+        fi
+        [ -f .gitignore ] || printf "__pycache__/\n.pytest_cache/\n.ruff_cache/\n.maki-last.txt\n.env\n" > .gitignore
+        if "${MAKI_ENV:-$HOME/.maki-env}"/bin/python "${MAKI_HOME:-$HOME/maki}"/crew.py "$TASK"; then
+            if [ "$IN_GIT" = 1 ]; then
+                git add -A
+                git commit -q -m "feat: ${TASK:0:60}" && echo "💾 Commit olundu: $(git branch --show-current)"
+                echo "   Qəbul:  git checkout $BASE && git merge $(git branch --show-current)"
+                echo "   Ataq:   git checkout $BASE && git branch -D $(git branch --show-current)"
+            fi
+        else
+            echo "❌ Commit edilmədi. Nəticəyə bax: git status"
+        fi
+        ;;
+    accept|reject)
+        B=$(git branch --show-current)
+        case "$B" in maki/*) ;; *) echo "⚠️  maki/ branch-da deyilsən."; exit 1 ;; esac
+        BASE=$(git rev-parse --verify -q main >/dev/null && echo main || echo master)
+        git checkout -q "$BASE" || exit 1
+        if [ "$1" = "accept" ]; then
+            git merge -q "$B" && git branch -d "$B" && echo "✅ $BASE-ə birləşdi"
+        else
+            git branch -D "$B" && echo "🗑️  Ataldı: $B"
+        fi
+        ;;
+    rag)
+        shift
+        ensure_ollama
+        "${MAKI_ENV:-$HOME/.maki-env}"/bin/python "${MAKI_HOME:-$HOME/maki}"/rag.py "$@"
+        ;;
+    gui|web)
+        ensure_ollama
+        echo "🌐 Open WebUI: http://localhost:8080"
+        source ~/.ai-env/bin/activate
+        mkdir -p ~/.maki-webui && cd ~/.maki-webui
+        open-webui serve
+        ;;
+    *)
+        echo "🤖 MAKI MASTER CONTROL CLI"
+        echo "İstifadə: ai-env [vram|clean|stop|doctor|agent|accept|reject|rag|gui]"
+        ;;
+esac

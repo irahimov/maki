@@ -11,10 +11,11 @@ from typing import TypedDict
 import ollama
 from langgraph.graph import END, StateGraph
 
+HOME = Path(os.environ.get("MAKI_HOME", Path(__file__).resolve().parent))
 PLANNER = "qwen3:4b"
 CODER = "qwen-coder-8k"
 WORK = Path.cwd().resolve()
-SKDIR = Path.home() / "maki/skills"
+SKDIR = HOME / "skills"
 PLANNER_RULES = (SKDIR / "planner.md").read_text()
 REVIEWER_RULES = (SKDIR / "reviewer.md").read_text()
 FENCE = "`" * 3
@@ -86,7 +87,7 @@ def project_context(task: str) -> str:
     if os.environ.get("MAKI_RAG") == "0":
         return ""
     try:
-        sys.path.insert(0, str(Path.home() / "maki"))
+        sys.path.insert(0, str(HOME))
         import rag
 
         rag.index()
@@ -106,7 +107,7 @@ def plan(s: S) -> S:
     mode = os.environ.get("MAKI_PLAN", "auto")
     if mode == "auto":
         try:
-            sys.path.insert(0, str(Path.home() / "maki"))
+            sys.path.insert(0, str(HOME))
             import analyzer
 
             res = analyzer.analyze(s["task"])

@@ -5,3 +5,11 @@ __pycache__/
 eval/baseline*.log
 eval/*.log
 eval/runs/
+.pytest_cache/
+.ruff_cache/
+*.log
+state-report.txt
+capabilities.json
+STATE.md
+report.sh
+eval/status.sh
