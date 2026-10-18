@@ -46,7 +46,7 @@ case "$1" in
             fi
             git checkout -q -b "maki/$(date +%m%d-%H%M)"
         fi
-        [ -f .gitignore ] || printf "__pycache__/\n.pytest_cache/\n.ruff_cache/\n.maki-last.txt\n.env\n" > .gitignore
+        [ -f .gitignore ] || printf "__pycache__/\n.pytest_cache/\n.ruff_cache/\n.maki-*\n.env\n" > .gitignore
         if "${MAKI_ENV:-$HOME/.maki-env}"/bin/python "${MAKI_HOME:-$HOME/maki}"/crew.py "$TASK"; then
             if [ "$IN_GIT" = 1 ]; then
                 git add -A

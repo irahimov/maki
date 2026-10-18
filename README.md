@@ -9,7 +9,7 @@ The pipeline is the small part. The point of this repo is the **measurement arou
 | Path | What it does |
 |---|---|
 | `crew.py` | Pipeline: optional planner, coder (qwen2.5-coder 7B), checks (ruff, pytest, AST stub detector), optional LLM reviewer |
-| `analyzer.py` | Rule-based task complexity estimate (simple / medium / complex) and a capability table for routing |
+| `analyzer.py` | Rule-based task complexity estimate (simple / medium / complex) and a capability table for routing. Implemented but not wired in: `crew.py` never writes the table and always skips planning, so the analyzer only logs its estimate |
 | `rag.py` | Local RAG over project files (ChromaDB + nomic-embed-text). Implemented, **not measured** (disabled in all evals) |
 | `verify.py` | Deterministic judge: ruff + pyright + pytest coverage. Not wired into `crew.py` |
 | `eval/` | Evaluation harness: tasks with hidden tests, runner, comparison and failure analysis scripts |
@@ -22,7 +22,7 @@ The pipeline is the small part. The point of this repo is the **measurement arou
 - Each task has a prompt and a hidden test file. Every run starts in a fresh git repo; the agent never sees the hidden tests.
 - For the five medium tasks (`eval/tasks/m_*`) the hidden tests were checked against reference solutions (`ref/`): all 69 tests pass, so failures are model failures, not test errors. The five simple tasks were **not** checked this way.
 - Every configuration is run repeatedly and logged to `eval/results.jsonl`. `eval/compare.py` compares labels, `eval/analyze_fail.py` classifies failures.
-- A first medium-task batch (labels `m-skip`, `m-coder`, `m-qwen3`) was launched twice by mistake and its rows are interleaved. It is excluded from every number below.
+- The first medium-task batch (labels `m-skip`, `m-coder`, `m-qwen3`) was run twice, leaving duplicate rows (20 `m-skip`, 16 `m-coder`, 10 `m-qwen3`; 10 each were intended). It is excluded from every number below.
 
 ## Results
 
