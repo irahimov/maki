@@ -49,3 +49,8 @@ Növbəti: gizli testləri etalon həllə qarşı təsdiqlə (eval/validate_test
 crew.py: num_predict=3000, çağırış timeout 300s, MAKI_PLAN=auto artıq həmişə skip. m4-cap: 1/10 (m2-skip 3/10), 0 timeout. Fərq statistik ayırd edilmir (n=10).
 Timeout-lar yalnız uzun promptlu rejimlərdə olub: qwen3 planner 6/10, coder planner 2/10, MAKI_FULLFAIL=1 4/10. skip rejimində heç vaxt. Düzəliş hələ timeout-a meylli konfiqurasiyada sınanmayıb (m5-fullcap gözləyir).
 Təkrarlanan uğursuzluq: boş girişdə indeksləmə (busy[0], rows[0], pop from empty list) m_intervals, m_csv, m_calc-da.
+
+## m5-fullcap (2026-10-16): MAKI təcrübələri bağlandı
+m5-fullcap: 1/10, timeout 0 (m3-full 1/10, 4 timeout). Limitlər asılmanı aradan qaldırdı, keçmə faizinə təsiri yoxdur.
+Orta çətinlik nəticəsi: 10-30%, konfiqurasiyadan asılı, hər qrupda n=10. README-də 30% yazma.
+Daha çox konfiqurasiya sınamırıq. Qalan: repo təmizliyi, README, unit testlər, P1.
