@@ -99,7 +99,7 @@ def project_context(task: str) -> str:
 
 
 def plan(s: S) -> S:
-    print("▶ planner işləyir...")
+    print("▶ plan mərhələsi...")
     existing = sorted(p.name for p in WORK.glob("*.py") if not p.name.startswith("test_"))
     prompt = s["task"]
     if existing:

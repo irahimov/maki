@@ -60,6 +60,7 @@ Medium tasks (5 tasks x 2 repeats per configuration):
 - Small samples: 10 to 25 runs per configuration. No formal significance testing beyond rough hand calculations.
 - Tasks were written by me with AI assistance, and so is much of the code in this repo.
 - Only five medium tasks. No real-world repositories.
+- `ai-env agent` runs the RAG step by default and re-indexes the project on every call (`MAKI_RAG=0` disables it). The evaluation runs disable it, so RAG's effect is unmeasured.
 - RAG is implemented but was never compared on vs off. The LLM reviewer (a 7B judge) produced generic output in the few runs I looked at; this was observed, not measured, and it is disabled by default.
 - `install.sh` was not tested on a clean machine. It does not install Aider (`maki-aider`) or Open WebUI (`ai-env gui`).
 - CLI messages in `bin/ai-env` are in Azerbaijani.
