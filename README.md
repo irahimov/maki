@@ -64,7 +64,7 @@ Medium tasks (5 tasks x 2 repeats per configuration):
 - RAG is implemented but was never compared on vs off. The LLM reviewer (a 7B judge) produced generic output in the few runs I looked at; this was observed, not measured, and it is disabled by default.
 - `install.sh` was not tested on a clean machine. It does not install Aider (`maki-aider`) or Open WebUI (`ai-env gui`).
 - CLI messages in `bin/ai-env` are in Azerbaijani.
-- `eval/results.jsonl` contains local working-directory paths.
+- Local paths in `eval/results.jsonl` were redacted to `<HOME>` and `<REPO>`.
 
 ## Run it
 
