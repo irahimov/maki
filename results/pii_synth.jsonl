@@ -1,0 +1,1000 @@
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "FIN: HODRQL8. IBAN: AZ54 SAMP F874 EDZW 46V0 4Z6A 522L. ", "gold": [["fin", 5, 12], ["iban", 20, 54]]}
+{"text": "Sifariş nömrəsi: 0901783778. ", "gold": []}
+{"text": "IBAN: AZ39 TEST VCC1 8X7J PC20 NNSD 74E9. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["iban", 6, 40]]}
+{"text": "Kart: 4686297738467518. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["card", 6, 22]]}
+{"text": "FIN: 9UIRYC5. ", "gold": [["fin", 5, 12]]}
+{"text": "E-poçt: qhzldro@example.com. Müştəri sorğusu qəbul olundu. Kart: 4290 9096 2499 4961. ", "gold": [["email", 8, 27], ["card", 65, 84]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Sorğu 3 gün ərzində cavablandırılacaq. FIN: SC7UD3M. ", "gold": [["fin", 78, 85]]}
+{"text": "Kart nömrəsi: 4956024454704880. ", "gold": []}
+{"text": "Kart nömrəsi: 4289009109844213. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. Kart: 4238628292907171. ", "gold": [["card", 39, 55]]}
+{"text": "FIN: LHWTOH6. ", "gold": [["fin", 5, 12]]}
+{"text": "İstinad kodu AB12345 göndərildi. IBAN: AZ86 TEST VCAG 69IK 3AB0 6O2A H9YS. ", "gold": [["iban", 39, 73]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "FIN: 2AJ83WK. IBAN: AZ76TESTAI2SHO3OJ5QJHU0I9YGL. ", "gold": [["fin", 5, 12], ["iban", 20, 48]]}
+{"text": "Kart: 4692 9731 7986 9378. Əməliyyat uğurla tamamlandı. Kart: 4755 4300 6626 7244. ", "gold": [["card", 6, 25], ["card", 62, 81]]}
+{"text": "Sifariş nömrəsi: 0733234011. IBAN: AZ69 SAMP BKLY KEP1 007F 148G PKNF. Kart nömrəsi: 4830389797658438. ", "gold": [["iban", 35, 69]]}
+{"text": "Kart: 4937 9920 2001 3163. Sorğu 3 gün ərzində cavablandırılacaq. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["card", 6, 25]]}
+{"text": "IBAN: AZ350EST57271100330374755051. Zəhmət olmasa sənədləri yoxlayın. FIN: 4R73YI4. ", "gold": [["fin", 75, 82]]}
+{"text": "Telefon: +994 50 194 99 10. Müştəri sorğusu qəbul olundu. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["phone", 9, 26]]}
+{"text": "E-poçt: jtgpuocrw@example.org. Kart: 4011-7587-0101-9244. ", "gold": [["email", 8, 29], ["card", 37, 56]]}
+{"text": "E-poçt: wphrtot@test.net. ", "gold": [["email", 8, 24]]}
+{"text": "Kart nömrəsi: 4466525253001305. Müştəri sorğusu qəbul olundu. Telefon: +994 50 699 57 60. ", "gold": [["phone", 71, 88]]}
+{"text": "Kart: 4831-4707-9775-5941. Sorğu 3 gün ərzində cavablandırılacaq. IBAN: AZ66 TEST 0J3D RZQR HOB9 97OQ F5LJ. ", "gold": [["card", 6, 25], ["iban", 72, 106]]}
+{"text": "IBAN: AZ21SAMPIGZ0UV40IZT34FRAP8LX. IBAN: AZ21DEMO04UVTKUSVEHI6M5B686S. ", "gold": [["iban", 6, 34], ["iban", 42, 70]]}
+{"text": "Telefon: 051-730-34-15. ", "gold": [["phone", 9, 22]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "Kart nömrəsi: 4716718287102516. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Müştəri sorğusu qəbul olundu. Kart: 4122-0323-7903-1337. ", "gold": [["card", 73, 92]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. Zəhmət olmasa sənədləri yoxlayın. Telefon: 070-828-45-07. ", "gold": [["phone", 72, 85]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "FIN: ZI956O8. Kart: 4866-2360-0752-6622. ", "gold": [["fin", 5, 12], ["card", 20, 39]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. İstinad kodu AB12345 göndərildi. E-poçt: gmrq@example.com. ", "gold": [["email", 71, 87]]}
+{"text": "IBAN: AZ83DEMOPYVAHYUQVGIGKTO6IDG0. Kart: 4490012847286204. ", "gold": [["iban", 6, 34], ["card", 42, 58]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Sifariş nömrəsi: 0694586405. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. IBAN: AZ06 TEST KMYJ 3OA2 KPJ1 VVX2 0WH5. ", "gold": [["iban", 36, 70]]}
+{"text": "Telefon: 0702992361. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["phone", 9, 19]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Telefon: 051-303-31-12. Sifariş nömrəsi: 0326478808. ", "gold": [["phone", 9, 22]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. E-poçt: cjfnesr@example.org. ", "gold": [["email", 42, 61]]}
+{"text": "Sifariş nömrəsi: 0410473041. ", "gold": []}
+{"text": "IBAN: AZ02 TEST 836Y 8ZJC 4PE1 9KQB GDZW. ", "gold": [["iban", 6, 40]]}
+{"text": "IBAN: AZ25 SAMP PA0X LOX2 YK0N G9AF 6K2X. Kart nömrəsi: 4041794889909661. IBAN: AZ56SAMPM5Q6FS4ZU3JOKZ82VBBU. ", "gold": [["iban", 6, 40], ["iban", 80, 108]]}
+{"text": "IBAN: AZ80 TEST 2SJI G4VQ BR6A TUHI FCGO. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["iban", 6, 40]]}
+{"text": "FIN: DHLOEXC. Sifariş nömrəsi: 0274465882. ", "gold": [["fin", 5, 12]]}
+{"text": "Telefon: +994 77 979 67 42. IBAN: AZ13TEST3Q9RTMPCSA7M1BHJL55V. ", "gold": [["phone", 9, 26], ["iban", 34, 62]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "E-poçt: cvfxd@test.net. Kart nömrəsi: 4787146189321873. ", "gold": [["email", 8, 22]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Kart: 4795-6446-8223-3305. ", "gold": [["card", 43, 62]]}
+{"text": "Telefon: +994 99 375 22 57. ", "gold": [["phone", 9, 26]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Məbləğ 1500.00 AZN təşkil edir. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0163497152. Kart nömrəsi: 4433100869857415. ", "gold": []}
+{"text": "Telefon: +994 55 090 18 46. ", "gold": [["phone", 9, 26]]}
+{"text": "FIN: P52JUUR. Kart nömrəsi: 4194280744702116. Kart: 4427-9008-5064-1802. ", "gold": [["fin", 5, 12], ["card", 52, 71]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Sifariş nömrəsi: 0714922816. ", "gold": []}
+{"text": "E-poçt: gwpzvi@example.org. İstinad kodu AB12345 göndərildi. Kart nömrəsi: 4339771310704581. ", "gold": [["email", 8, 26]]}
+{"text": "İstinad kodu AB12345 göndərildi. E-poçt: sdqbjlmm@test.net. ", "gold": [["email", 41, 58]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Telefon: 0993197022. ", "gold": [["phone", 46, 56]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. IBAN: AZ25 DEMO 33OY 5WSD MK8J QKUG 32CX. Sifariş nömrəsi: 0483416111. ", "gold": [["iban", 39, 73]]}
+{"text": "Kart nömrəsi: 4881346816962256. Kart: 4073209778731696. Kart nömrəsi: 4363732659524963. ", "gold": [["card", 38, 54]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. E-poçt: kkbdivou@example.com. ", "gold": [["email", 42, 62]]}
+{"text": "IBAN: AZ700EST10901730922625054444. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Telefon: 0558639079. Kart nömrəsi: 4789567330196229. ", "gold": [["phone", 43, 53]]}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. Sifariş nömrəsi: 0131824579. Sifariş nömrəsi: 0477602320. ", "gold": []}
+{"text": "Kart: 4925-8037-6497-9689. FIN: HD3P3U3. ", "gold": [["card", 6, 25], ["fin", 32, 39]]}
+{"text": "FIN: 5P83MIU. ", "gold": [["fin", 5, 12]]}
+{"text": "Kart nömrəsi: 4491666445905521. IBAN: AZ39SAMPGAX8NMRJ9XV2NXH7QC1Z. ", "gold": [["iban", 38, 66]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. E-poçt: magucgcs@test.net. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["email", 42, 59]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Telefon: +994 77 515 70 55. FIN: 4K2A9J9. ", "gold": [["phone", 41, 58], ["fin", 65, 72]]}
+{"text": "E-poçt: bgcc@example.org. IBAN: AZ020EST30405993802284174121. FIN: ZAIN22B. ", "gold": [["email", 8, 24], ["fin", 67, 74]]}
+{"text": "E-poçt: skkn@example.com. ", "gold": [["email", 8, 24]]}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "IBAN: AZ430EST89973762869472610331. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. FIN: B2B7LSD. ", "gold": [["fin", 39, 46]]}
+{"text": "Kart: 4261 4009 2309 3478. ", "gold": [["card", 6, 25]]}
+{"text": "IBAN: AZ92 SAMP Z2VW 4GHJ MPF3 ISXQ G1SK. ", "gold": [["iban", 6, 40]]}
+{"text": "FIN: M9XG95X. ", "gold": [["fin", 5, 12]]}
+{"text": "Kart: 4405152708731627. ", "gold": [["card", 6, 22]]}
+{"text": "Kart nömrəsi: 4200584157567854. Kart nömrəsi: 4301909294533139. IBAN: AZ85SAMPBVXGN7D3CTA4HFQUCY1F. ", "gold": [["iban", 70, 98]]}
+{"text": "FIN: L77LIK9. Telefon: 051-655-50-95. IBAN: AZ85 SAMP VHET QUFF 4XY3 9FAB GFM1. ", "gold": [["fin", 5, 12], ["phone", 23, 36], ["iban", 44, 78]]}
+{"text": "E-poçt: atsncqo@example.org. FIN: KRDMV6H. Sifariş nömrəsi: 0581915354. ", "gold": [["email", 8, 27], ["fin", 34, 41]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Telefon: +994 50 188 73 20. ", "gold": [["phone", 9, 26]]}
+{"text": "Əməliyyat uğurla tamamlandı. IBAN: AZ22 DEMO CPO9 JA2D IJYP VZ16 G2WI. ", "gold": [["iban", 35, 69]]}
+{"text": "Əməliyyat uğurla tamamlandı. Kart: 4288955301968830. ", "gold": [["card", 35, 51]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "FIN: I9ATTVQ. Kart nömrəsi: 4375472111497401. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["fin", 5, 12]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Telefon: +994 99 640 93 19. ", "gold": [["phone", 48, 65]]}
+{"text": "Əməliyyat uğurla tamamlandı. Zəhmət olmasa sənədləri yoxlayın. FIN: R7E357U. ", "gold": [["fin", 68, 75]]}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "FIN: F2KHUIS. ", "gold": [["fin", 5, 12]]}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Kart: 4663-9963-6999-7365. Əməliyyat uğurla tamamlandı. FIN: JFOZENF. ", "gold": [["card", 6, 25], ["fin", 61, 68]]}
+{"text": "FIN: 7BO9E9L. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["fin", 5, 12]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. IBAN: AZ97 SAMP ZYVI 09WX 92UW ZP4R 8SNA. Əməliyyat uğurla tamamlandı. ", "gold": [["iban", 38, 72]]}
+{"text": "Kart: 4724-0765-3091-2283. E-poçt: ewnv@example.com. ", "gold": [["card", 6, 25], ["email", 35, 51]]}
+{"text": "IBAN: AZ36SAMPU1VGOF6M7OEXVNZR7V29. Sifariş nömrəsi: 0753134382. E-poçt: dyiuuvvjd@example.com. ", "gold": [["iban", 6, 34], ["email", 73, 94]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Kart: 4049-5626-7130-8678. ", "gold": [["card", 6, 25]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. IBAN: AZ10 SAMP OLWN 5DFQ 59K4 X0NT UQPD. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["iban", 40, 74]]}
+{"text": "FIN: MMNZ6BX. FIN: EON9NMH. İstinad kodu AB12345 göndərildi. ", "gold": [["fin", 5, 12], ["fin", 19, 26]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. İstinad kodu AB12345 göndərildi. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. FIN: MVU2AZH. ", "gold": [["fin", 44, 51]]}
+{"text": "FIN: TSP8737. Sifariş nömrəsi: 0960019457. İstinad kodu AB12345 göndərildi. ", "gold": [["fin", 5, 12]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. IBAN: AZ68TEST0GINDQE6ZC7HHX87HWP7. ", "gold": [["iban", 40, 68]]}
+{"text": "Kart: 4577-8568-1509-1806. ", "gold": [["card", 6, 25]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "E-poçt: lgck@example.com. FIN: 2C4DHB4. ", "gold": [["email", 8, 24], ["fin", 31, 38]]}
+{"text": "Telefon: 099-519-64-43. Kart: 4881 8354 0102 5197. İstinad kodu AB12345 göndərildi. ", "gold": [["phone", 9, 22], ["card", 30, 49]]}
+{"text": "E-poçt: alwmdfj@example.org. Müştəri sorğusu qəbul olundu. İstinad kodu AB12345 göndərildi. ", "gold": [["email", 8, 27]]}
+{"text": "FIN: TA017AU. ", "gold": [["fin", 5, 12]]}
+{"text": "Telefon: +994 50 576 83 01. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["phone", 9, 26]]}
+{"text": "FIN: S7ACF1H. IBAN: AZ76 DEMO A1MJ FRSN O5YB DG84 K303. ", "gold": [["fin", 5, 12], ["iban", 20, 54]]}
+{"text": "Telefon: 077-751-68-56. ", "gold": [["phone", 9, 22]]}
+{"text": "E-poçt: kmcm@example.org. ", "gold": [["email", 8, 24]]}
+{"text": "E-poçt: lany@example.org. ", "gold": [["email", 8, 24]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "Kart: 4768186639618579. FIN: S9SY3OJ. ", "gold": [["card", 6, 22], ["fin", 29, 36]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. IBAN: AZ450AMP65568043124175029779. IBAN: AZ31DEMOKROQPTIC3BI14A8PZNJE. ", "gold": [["iban", 76, 104]]}
+{"text": "E-poçt: usfelxdn@example.com. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["email", 8, 28]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. IBAN: AZ500AMP51864555367701221848. Kart: 4218-3736-0579-8124. ", "gold": [["card", 81, 100]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Məbləğ 1500.00 AZN təşkil edir. E-poçt: exhpmjr@example.org. ", "gold": [["email", 74, 93]]}
+{"text": "IBAN: AZ18 TEST OGGI 3LW4 OZ3U SLXX RMSS. Zəhmət olmasa sənədləri yoxlayın. IBAN: AZ480EMO35176379342879856676. ", "gold": [["iban", 6, 40]]}
+{"text": "İstinad kodu AB12345 göndərildi. Telefon: 051-555-39-59. Kart: 4318 4364 7435 4631. ", "gold": [["phone", 42, 55], ["card", 63, 82]]}
+{"text": "Telefon: 077-976-87-00. ", "gold": [["phone", 9, 22]]}
+{"text": "E-poçt: weihrkhv@example.com. Tarix 2026-10-18 olaraq qeyd edildi. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["email", 8, 28]]}
+{"text": "FIN: 9M7AALX. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["fin", 5, 12]]}
+{"text": "E-poçt: gqvlxsm@test.net. FIN: 86878BN. ", "gold": [["email", 8, 24], ["fin", 31, 38]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Telefon: 055-367-20-50. ", "gold": [["phone", 9, 22]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Sifariş nömrəsi: 0828118415. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "IBAN: AZ18SAMPXWVCZIJI6KC77XLAMTOR. IBAN: AZ040AMP93772146041316730316. Kart nömrəsi: 4628747362147598. ", "gold": [["iban", 6, 34]]}
+{"text": "Kart: 4929 8618 1579 1897. Məbləğ 1500.00 AZN təşkil edir. FIN: VIJ1PIV. ", "gold": [["card", 6, 25], ["fin", 64, 71]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. E-poçt: gvudsiisw@test.net. ", "gold": [["email", 42, 60]]}
+{"text": "Kart: 4567 3821 6368 9531. ", "gold": [["card", 6, 25]]}
+{"text": "İstinad kodu AB12345 göndərildi. Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "IBAN: AZ10 TEST JX7X LVZF 7W74 2VTO FBH4. ", "gold": [["iban", 6, 40]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "IBAN: AZ96DEMOR9N78HAEIV552DBK3HL5. Kart nömrəsi: 4451306361219312. ", "gold": [["iban", 6, 34]]}
+{"text": "Əməliyyat uğurla tamamlandı. IBAN: AZ86 SAMP XACW ATH5 YNBX MII2 A2NA. ", "gold": [["iban", 35, 69]]}
+{"text": "Sifariş nömrəsi: 0988144502. Kart nömrəsi: 4679881463214003. ", "gold": []}
+{"text": "FIN: 0K144LV. Telefon: 099-818-21-49. ", "gold": [["fin", 5, 12], ["phone", 23, 36]]}
+{"text": "IBAN: AZ15 DEMO 35UZ MAUQ 3EVG 8WPD QQKE. ", "gold": [["iban", 6, 40]]}
+{"text": "Telefon: 051-931-97-32. ", "gold": [["phone", 9, 22]]}
+{"text": "IBAN: AZ38DEMOPW2BCWURQZDA3WOJTZRC. İstinad kodu AB12345 göndərildi. ", "gold": [["iban", 6, 34]]}
+{"text": "E-poçt: xnga@test.net. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["email", 8, 21]]}
+{"text": "IBAN: AZ40 SAMP R0TT RL88 UDB1 MO94 4Y52. Zəhmət olmasa sənədləri yoxlayın. E-poçt: rtlva@example.org. ", "gold": [["iban", 6, 40], ["email", 84, 101]]}
+{"text": "İstinad kodu AB12345 göndərildi. Zəhmət olmasa sənədləri yoxlayın. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "IBAN: AZ38 SAMP 8U1T 129B VXPT YVY2 04KN. FIN: W899Z5B. ", "gold": [["iban", 6, 40], ["fin", 47, 54]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Kart nömrəsi: 4174355775936983. FIN: S72UUJU. ", "gold": [["fin", 71, 78]]}
+{"text": "Telefon: +994 51 430 43 45. Telefon: 0555536735. IBAN: AZ13SAMPGAIFIBI6DCTX852KIA7C. ", "gold": [["phone", 9, 26], ["phone", 37, 47], ["iban", 55, 83]]}
+{"text": "IBAN: AZ700EST72919823118119454519. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Kart: 4768474233093914. Telefon: 055-511-80-89. ", "gold": [["card", 38, 54], ["phone", 65, 78]]}
+{"text": "E-poçt: pxcpqj@test.net. Sifariş nömrəsi: 0359263299. ", "gold": [["email", 8, 23]]}
+{"text": "Kart: 4971 3842 6703 1719. ", "gold": [["card", 6, 25]]}
+{"text": "Kart: 4725574380094789. Telefon: 0773959298. E-poçt: avtyvcr@example.com. ", "gold": [["card", 6, 22], ["phone", 33, 43], ["email", 53, 72]]}
+{"text": "Müştəri sorğusu qəbul olundu. Tarix 2026-10-18 olaraq qeyd edildi. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Telefon: +994 50 919 81 93. ", "gold": [["phone", 9, 26]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Sifariş nömrəsi: 0222521703. E-poçt: avgsix@example.com. ", "gold": [["email", 69, 87]]}
+{"text": "Kart nömrəsi: 4130815104129850. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "E-poçt: eepl@example.org. ", "gold": [["email", 8, 24]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. Telefon: +994 51 831 49 20. ", "gold": [["phone", 42, 59]]}
+{"text": "FIN: WLXYKSE. İstinad kodu AB12345 göndərildi. ", "gold": [["fin", 5, 12]]}
+{"text": "E-poçt: zdwjiutt@example.org. İstinad kodu AB12345 göndərildi. ", "gold": [["email", 8, 28]]}
+{"text": "Sifariş nömrəsi: 0773374664. Kart: 4365-6755-6480-4250. ", "gold": [["card", 35, 54]]}
+{"text": "Telefon: +994 51 477 60 33. Telefon: 099-104-39-32. ", "gold": [["phone", 9, 26], ["phone", 37, 50]]}
+{"text": "Sifariş nömrəsi: 0105469101. ", "gold": []}
+{"text": "IBAN: AZ43TESTUZM8BP5TFOL3IRM62OKO. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["iban", 6, 34]]}
+{"text": "Sifariş nömrəsi: 0686123844. ", "gold": []}
+{"text": "Kart: 4998 2558 1918 0445. Sorğu 3 gün ərzində cavablandırılacaq. IBAN: AZ08 TEST RN19 0NWD M553 UDLO KSCV. ", "gold": [["card", 6, 25], ["iban", 72, 106]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. E-poçt: vgqbzomc@example.org. ", "gold": [["email", 45, 65]]}
+{"text": "IBAN: AZ05 TEST SSPM AICY 6SP1 ABS6 W8WF. Kart: 4875974701845737. IBAN: AZ630EMO88198517625156678031. ", "gold": [["iban", 6, 40], ["card", 48, 64]]}
+{"text": "IBAN: AZ430AMP22216615204802330257. ", "gold": []}
+{"text": "Kart nömrəsi: 4284807714402847. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Kart nömrəsi: 4607426101193966. Kart nömrəsi: 4619442041896168. ", "gold": []}
+{"text": "Telefon: +994 55 364 95 77. Müştəri sorğusu qəbul olundu. IBAN: AZ150AMP40361342960027161076. ", "gold": [["phone", 9, 26]]}
+{"text": "FIN: 69NO2FK. Kart: 4720-7082-9606-0618. FIN: N7AF4C7. ", "gold": [["fin", 5, 12], ["card", 20, 39], ["fin", 46, 53]]}
+{"text": "IBAN: AZ91DEMO7SZKL4G6NN3GDY2WGZJM. ", "gold": [["iban", 6, 34]]}
+{"text": "IBAN: AZ09DEMOBFC6FKMTZUKTJPX9XVZZ. Kart nömrəsi: 4991852457581906. ", "gold": [["iban", 6, 34]]}
+{"text": "FIN: FN11JPY. Müştəri sorğusu qəbul olundu. ", "gold": [["fin", 5, 12]]}
+{"text": "E-poçt: jirdcevzs@example.com. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["email", 8, 29]]}
+{"text": "Müştəri sorğusu qəbul olundu. Zəhmət olmasa sənədləri yoxlayın. Kart: 4398 3798 5034 6669. ", "gold": [["card", 70, 89]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Telefon: 055-145-31-30. FIN: FER9J45. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["phone", 9, 22], ["fin", 29, 36]]}
+{"text": "FIN: TNZETKP. Kart nömrəsi: 4076368073765979. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["fin", 5, 12]]}
+{"text": "Əməliyyat uğurla tamamlandı. İstinad kodu AB12345 göndərildi. E-poçt: jvor@example.org. ", "gold": [["email", 70, 86]]}
+{"text": "IBAN: AZ65TESTWPR3WIVQHJL0KAVOYAGQ. IBAN: AZ51 SAMP R89O AY9P 8I3C CUT2 FCRY. ", "gold": [["iban", 6, 34], ["iban", 42, 76]]}
+{"text": "Əməliyyat uğurla tamamlandı. IBAN: AZ30 DEMO U6H7 IJFQ I3WK CTJ7 F8TI. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["iban", 35, 69]]}
+{"text": "FIN: 7N3OMWJ. Müştəri sorğusu qəbul olundu. ", "gold": [["fin", 5, 12]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Kart: 4575 2877 1437 6985. Sifariş nömrəsi: 0724590620. ", "gold": [["card", 45, 64]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Telefon: 055-362-64-43. ", "gold": [["phone", 41, 54]]}
+{"text": "Kart nömrəsi: 4387614978012106. Telefon: 0775568700. Telefon: 0510455027. ", "gold": [["phone", 41, 51], ["phone", 62, 72]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "IBAN: AZ31 DEMO DIWU AI7D 623B HDIM LKGK. ", "gold": [["iban", 6, 40]]}
+{"text": "E-poçt: sfsa@example.org. Müştəri sorğusu qəbul olundu. ", "gold": [["email", 8, 24]]}
+{"text": "E-poçt: qkkdyfdr@example.com. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["email", 8, 28]]}
+{"text": "IBAN: AZ73DEMODVTGLEN7MECXK9IEMX4Y. IBAN: AZ80SAMPQQ9IPEW7E3W5WQUWEVT8. İstinad kodu AB12345 göndərildi. ", "gold": [["iban", 6, 34], ["iban", 42, 70]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Əməliyyat uğurla tamamlandı. FIN: E4JZA7T. ", "gold": [["fin", 73, 80]]}
+{"text": "Kart: 4841-2368-1964-5164. Kart: 4746 2943 9338 3336. ", "gold": [["card", 6, 25], ["card", 33, 52]]}
+{"text": "IBAN: AZ110AMP82917142274742818619. ", "gold": []}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "Telefon: 0779499052. İstinad kodu AB12345 göndərildi. E-poçt: dwzcuqwbx@test.net. ", "gold": [["phone", 9, 19], ["email", 62, 80]]}
+{"text": "FIN: A5N1M9I. ", "gold": [["fin", 5, 12]]}
+{"text": "Kart: 4927-7776-0746-3325. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["card", 6, 25]]}
+{"text": "FIN: O2G8TL5. İstinad kodu AB12345 göndərildi. Kart nömrəsi: 4654948248295927. ", "gold": [["fin", 5, 12]]}
+{"text": "Telefon: +994 99 598 64 39. ", "gold": [["phone", 9, 26]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Telefon: 0779377895. ", "gold": [["phone", 9, 19]]}
+{"text": "FIN: PBLPBU3. ", "gold": [["fin", 5, 12]]}
+{"text": "Telefon: +994 99 452 57 79. ", "gold": [["phone", 9, 26]]}
+{"text": "IBAN: AZ650EST70216509518211918464. ", "gold": []}
+{"text": "IBAN: AZ57 SAMP 1CQ0 8TCK AZM5 GW1W 2JVK. IBAN: AZ55 TEST CQOD CDSS 7OLX CCE4 UPQQ. ", "gold": [["iban", 6, 40], ["iban", 48, 82]]}
+{"text": "E-poçt: yililrgdf@example.org. FIN: QUVPMQF. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["email", 8, 29], ["fin", 36, 43]]}
+{"text": "Sifariş nömrəsi: 0722474532. FIN: TRLZBRD. ", "gold": [["fin", 34, 41]]}
+{"text": "IBAN: AZ43SAMPTU6ERNUKKYEHU1T1254U. IBAN: AZ78DEMOAGGMGYNA0Y9KU66AJQHE. Kart nömrəsi: 4758186516315540. ", "gold": [["iban", 6, 34], ["iban", 42, 70]]}
+{"text": "Əməliyyat uğurla tamamlandı. E-poçt: tjsbfnnma@test.net. ", "gold": [["email", 37, 55]]}
+{"text": "Kart: 4124 1184 7166 5466. ", "gold": [["card", 6, 25]]}
+{"text": "IBAN: AZ36DEMOTT7FD02XMPZGGOX96IRW. Telefon: 099-232-90-30. ", "gold": [["iban", 6, 34], ["phone", 45, 58]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. E-poçt: pykf@example.com. ", "gold": [["email", 40, 56]]}
+{"text": "İstinad kodu AB12345 göndərildi. Telefon: 099-012-10-55. ", "gold": [["phone", 42, 55]]}
+{"text": "E-poçt: rllgnnj@example.org. Sorğu 3 gün ərzində cavablandırılacaq. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["email", 8, 27]]}
+{"text": "Əməliyyat uğurla tamamlandı. Kart nömrəsi: 4102663896617623. ", "gold": []}
+{"text": "IBAN: AZ45TEST17U3SDCYXGHW9N0XNUNP. ", "gold": [["iban", 6, 34]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "IBAN: AZ90 SAMP 8BOW 96RG 0PHN 0NR7 UF39. ", "gold": [["iban", 6, 40]]}
+{"text": "IBAN: AZ13DEMOBIHQBFI1RRW2X9UY6N3T. İstinad kodu AB12345 göndərildi. ", "gold": [["iban", 6, 34]]}
+{"text": "FIN: VATTNBE. Kart: 4476 0004 8548 4221. ", "gold": [["fin", 5, 12], ["card", 20, 39]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0099759123. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Telefon: 0994014168. ", "gold": [["phone", 9, 19]]}
+{"text": "Kart nömrəsi: 4518307216349479. IBAN: AZ42SAMPHLP52AOJDIW1U5ZS4FJ9. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["iban", 38, 66]]}
+{"text": "FIN: 6SAY1M7. IBAN: AZ020AMP26134405235684357049. ", "gold": [["fin", 5, 12]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Telefon: 0777221106. Kart: 4727-9437-0633-6976. ", "gold": [["phone", 9, 19], ["card", 27, 46]]}
+{"text": "Əməliyyat uğurla tamamlandı. Telefon: 050-632-05-55. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["phone", 38, 51]]}
+{"text": "E-poçt: pwtb@example.com. Kart nömrəsi: 4130221448539617. Telefon: 0992973161. ", "gold": [["email", 8, 24], ["phone", 67, 77]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Kart: 4213477790753045. ", "gold": [["card", 43, 59]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Zəhmət olmasa sənədləri yoxlayın. Sifariş nömrəsi: 0307193117. ", "gold": []}
+{"text": "E-poçt: tjkzcx@test.net. Kart nömrəsi: 4290280545610438. Telefon: 0558423161. ", "gold": [["email", 8, 23], ["phone", 66, 76]]}
+{"text": "Kart: 4700 0588 8828 5676. ", "gold": [["card", 6, 25]]}
+{"text": "Telefon: +994 50 532 71 13. Tarix 2026-10-18 olaraq qeyd edildi. FIN: 95ENIKD. ", "gold": [["phone", 9, 26], ["fin", 70, 77]]}
+{"text": "Əməliyyat uğurla tamamlandı. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Telefon: +994 77 219 49 25. İstinad kodu AB12345 göndərildi. ", "gold": [["phone", 46, 63]]}
+{"text": "Sifariş nömrəsi: 0060986087. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. IBAN: AZ760AMP96549417577682081861. IBAN: AZ080EST24563935393696813222. ", "gold": []}
+{"text": "Telefon: 077-232-91-25. ", "gold": [["phone", 9, 22]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. İstinad kodu AB12345 göndərildi. Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0167267134. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Kart: 4026486734841342. ", "gold": [["card", 6, 22]]}
+{"text": "Əməliyyat uğurla tamamlandı. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0200669497. E-poçt: pfzbfitzy@example.com. ", "gold": [["email", 37, 58]]}
+{"text": "E-poçt: umvl@example.com. E-poçt: nlqsek@test.net. Əməliyyat uğurla tamamlandı. ", "gold": [["email", 8, 24], ["email", 34, 49]]}
+{"text": "FIN: V2521C8. IBAN: AZ040EST14132765338194649438. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["fin", 5, 12]]}
+{"text": "FIN: P45C0IS. ", "gold": [["fin", 5, 12]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. IBAN: AZ47DEMODPSQRWUE24Q684E8N6GT. ", "gold": [["iban", 43, 71]]}
+{"text": "İstinad kodu AB12345 göndərildi. Tarix 2026-10-18 olaraq qeyd edildi. E-poçt: pjngkuhwb@example.com. ", "gold": [["email", 78, 99]]}
+{"text": "İstinad kodu AB12345 göndərildi. Kart nömrəsi: 4658636193973442. Sifariş nömrəsi: 0800720851. ", "gold": []}
+{"text": "Kart: 4960-9024-6611-3385. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["card", 6, 25]]}
+{"text": "Telefon: 0990854589. E-poçt: spmxa@test.net. ", "gold": [["phone", 9, 19], ["email", 29, 43]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "E-poçt: xwpr@test.net. ", "gold": [["email", 8, 21]]}
+{"text": "Sifariş nömrəsi: 0335245037. Kart: 4888-3615-7312-0636. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["card", 35, 54]]}
+{"text": "FIN: B44TQJS. Tarix 2026-10-18 olaraq qeyd edildi. FIN: 7V7RDHO. ", "gold": [["fin", 5, 12], ["fin", 56, 63]]}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "IBAN: AZ80 SAMP E5BK 44DA A6EZ TSHN OTCL. İstinad kodu AB12345 göndərildi. ", "gold": [["iban", 6, 40]]}
+{"text": "IBAN: AZ240EMO57099560370773226310. Sifariş nömrəsi: 0643027516. ", "gold": []}
+{"text": "IBAN: AZ45DEMO3OP9R59QZWAASA6H1DW4. FIN: ISWBEIS. E-poçt: tmasw@example.com. ", "gold": [["iban", 6, 34], ["fin", 41, 48], ["email", 58, 75]]}
+{"text": "Kart: 4936-9317-4215-8006. Müştəri sorğusu qəbul olundu. E-poçt: hmdcs@example.com. ", "gold": [["card", 6, 25], ["email", 65, 82]]}
+{"text": "FIN: 8F8Y2AY. ", "gold": [["fin", 5, 12]]}
+{"text": "Kart: 4771-3072-0155-3755. IBAN: AZ40SAMP7I3536P6I37NZFY7NKJ8. ", "gold": [["card", 6, 25], ["iban", 33, 61]]}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Telefon: 0770439130. Müştəri sorğusu qəbul olundu. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["phone", 9, 19]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Telefon: +994 70 266 53 52. ", "gold": [["phone", 43, 60]]}
+{"text": "Kart nömrəsi: 4849586839230071. Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. FIN: E992VZY. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["fin", 38, 45]]}
+{"text": "Kart: 4074 4419 5474 3596. ", "gold": [["card", 6, 25]]}
+{"text": "E-poçt: kaptrhk@example.com. ", "gold": [["email", 8, 27]]}
+{"text": "FIN: MENVXNC. IBAN: AZ30 TEST W9OR X845 B3RT XDKI 2JPJ. ", "gold": [["fin", 5, 12], ["iban", 20, 54]]}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "IBAN: AZ66TEST9XIOND51C777UNJ1GEO2. ", "gold": [["iban", 6, 34]]}
+{"text": "Telefon: 099-759-11-29. E-poçt: qwtjewh@test.net. Telefon: 055-093-11-31. ", "gold": [["phone", 9, 22], ["email", 32, 48], ["phone", 59, 72]]}
+{"text": "Telefon: 0514234950. Tarix 2026-10-18 olaraq qeyd edildi. Telefon: 099-007-81-29. ", "gold": [["phone", 9, 19], ["phone", 67, 80]]}
+{"text": "Kart nömrəsi: 4985948509468940. ", "gold": []}
+{"text": "IBAN: AZ02 DEMO 0M6V S683 XVMZ 0TR5 5PZ9. ", "gold": [["iban", 6, 40]]}
+{"text": "E-poçt: bvjmdigod@example.org. FIN: O0PECBB. ", "gold": [["email", 8, 29], ["fin", 36, 43]]}
+{"text": "IBAN: AZ42SAMP1QTE7UW7MAYYWUF0O680. Sorğu 3 gün ərzində cavablandırılacaq. FIN: EG5FGGD. ", "gold": [["iban", 6, 34], ["fin", 80, 87]]}
+{"text": "Sifariş nömrəsi: 0231603597. Telefon: +994 55 976 88 24. Kart nömrəsi: 4476678200546076. ", "gold": [["phone", 38, 55]]}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. IBAN: AZ58SAMPKDFH1L2FATVKXWFWM26Y. ", "gold": [["iban", 35, 63]]}
+{"text": "Telefon: 051-830-56-13. ", "gold": [["phone", 9, 22]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Kart nömrəsi: 4332620598364450. IBAN: AZ750EST82006528126464941040. ", "gold": []}
+{"text": "Kart: 4711 1048 9497 7679. ", "gold": [["card", 6, 25]]}
+{"text": "FIN: Y04BVF6. E-poçt: mpuksscde@example.org. Kart: 4291095604035188. ", "gold": [["fin", 5, 12], ["email", 22, 43], ["card", 51, 67]]}
+{"text": "E-poçt: scokv@test.net. Kart: 4906963769492345. ", "gold": [["email", 8, 22], ["card", 30, 46]]}
+{"text": "Kart nömrəsi: 4303490902073329. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Kart nömrəsi: 4151575144263143. ", "gold": []}
+{"text": "E-poçt: vamv@example.com. İstinad kodu AB12345 göndərildi. ", "gold": [["email", 8, 24]]}
+{"text": "Əməliyyat uğurla tamamlandı. Kart: 4144 2369 4090 5333. ", "gold": [["card", 35, 54]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Telefon: 077-548-37-30. IBAN: AZ94TESTRRNFZZC18S371G4GOT7D. ", "gold": [["phone", 9, 22], ["iban", 30, 58]]}
+{"text": "IBAN: AZ540EST84792334562830137950. Telefon: +994 55 214 12 60. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["phone", 45, 62]]}
+{"text": "Kart nömrəsi: 4499435780153051. Telefon: 051-618-11-89. ", "gold": [["phone", 41, 54]]}
+{"text": "IBAN: AZ960EST21737855877002197996. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "FIN: X9BR07H. Müştəri sorğusu qəbul olundu. ", "gold": [["fin", 5, 12]]}
+{"text": "E-poçt: bnxubfp@example.com. ", "gold": [["email", 8, 27]]}
+{"text": "IBAN: AZ11 TEST 6FDQ 00QX 9R83 LGC6 VLA5. Sorğu 3 gün ərzində cavablandırılacaq. Əməliyyat uğurla tamamlandı. ", "gold": [["iban", 6, 40]]}
+{"text": "Sifariş nömrəsi: 0643343994. ", "gold": []}
+{"text": "E-poçt: mbeayxlbm@example.com. Sorğu 3 gün ərzində cavablandırılacaq. Telefon: 0779154537. ", "gold": [["email", 8, 29], ["phone", 79, 89]]}
+{"text": "Telefon: 0506348407. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["phone", 9, 19]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Kart nömrəsi: 4631745987806957. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "E-poçt: xkdsrabmg@test.net. ", "gold": [["email", 8, 26]]}
+{"text": "Kart nömrəsi: 4285992833635607. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Telefon: 0501678791. Kart nömrəsi: 4686232227475491. ", "gold": [["phone", 9, 19]]}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0061369420. ", "gold": []}
+{"text": "E-poçt: gtklnfsys@example.org. ", "gold": [["email", 8, 29]]}
+{"text": "Kart: 4196 1436 8004 0726. FIN: IPTEJ6R. IBAN: AZ81 TEST 63OL DS6B WTBV EUNQ WSJU. ", "gold": [["card", 6, 25], ["fin", 32, 39], ["iban", 47, 81]]}
+{"text": "Müştəri sorğusu qəbul olundu. E-poçt: orcznxjxd@example.org. IBAN: AZ18 SAMP HHNX CH5V CJ5U 2XG1 SYVL. ", "gold": [["email", 38, 59], ["iban", 67, 101]]}
+{"text": "IBAN: AZ130EST86762533449931602057. ", "gold": []}
+{"text": "FIN: HCFZLGQ. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["fin", 5, 12]]}
+{"text": "Müştəri sorğusu qəbul olundu. IBAN: AZ48 DEMO 8CKO 2ZV3 AIDM JIFK 5J0Z. ", "gold": [["iban", 36, 70]]}
+{"text": "E-poçt: qlsf@test.net. IBAN: AZ880EST16338293530412800984. ", "gold": [["email", 8, 21]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. Telefon: 0506324514. ", "gold": [["phone", 38, 48]]}
+{"text": "Telefon: 051-022-52-66. Sifariş nömrəsi: 0817432827. ", "gold": [["phone", 9, 22]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Məbləğ 1500.00 AZN təşkil edir. Telefon: 0995314192. ", "gold": [["phone", 73, 83]]}
+{"text": "Telefon: +994 77 668 08 24. ", "gold": [["phone", 9, 26]]}
+{"text": "İstinad kodu AB12345 göndərildi. Əməliyyat uğurla tamamlandı. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. FIN: KA49GLK. IBAN: AZ22TEST8KMG5ZE1LPMT77E2GAI0. ", "gold": [["fin", 38, 45], ["iban", 53, 81]]}
+{"text": "IBAN: AZ45TESTXVVQTBXSV8K6O6JGGXK2. IBAN: AZ47 SAMP XJTX 1VEZ VWZZ 4JA5 ZUK6. IBAN: AZ53 SAMP IZHM YUYM DO6T D31L 15X9. ", "gold": [["iban", 6, 34], ["iban", 42, 76], ["iban", 84, 118]]}
+{"text": "IBAN: AZ440AMP99958842230636003466. ", "gold": []}
+{"text": "IBAN: AZ420EST07843600032214610955. Sorğu 3 gün ərzində cavablandırılacaq. IBAN: AZ170EST55016487065565724662. ", "gold": []}
+{"text": "Kart: 4985 1352 9059 8247. Kart: 4068811381086355. ", "gold": [["card", 6, 25], ["card", 33, 49]]}
+{"text": "E-poçt: builmmmtb@example.org. E-poçt: lylkxkuq@example.org. ", "gold": [["email", 8, 29], ["email", 39, 59]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Telefon: 077-435-12-31. ", "gold": [["phone", 41, 54]]}
+{"text": "Telefon: 055-019-16-85. Sifariş nömrəsi: 0264428914. ", "gold": [["phone", 9, 22]]}
+{"text": "E-poçt: zgrrko@example.com. ", "gold": [["email", 8, 26]]}
+{"text": "FIN: DV2ZX0Z. ", "gold": [["fin", 5, 12]]}
+{"text": "Müştəri sorğusu qəbul olundu. E-poçt: yldvzmvq@example.com. İstinad kodu AB12345 göndərildi. ", "gold": [["email", 38, 58]]}
+{"text": "Sifariş nömrəsi: 0392347494. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Kart: 4217-4070-0157-1288. ", "gold": [["card", 6, 25]]}
+{"text": "Telefon: +994 77 270 57 11. Müştəri sorğusu qəbul olundu. ", "gold": [["phone", 9, 26]]}
+{"text": "IBAN: AZ100EST29530745791709612545. ", "gold": []}
+{"text": "FIN: XGHXAAV. FIN: V0Z4K4Q. ", "gold": [["fin", 5, 12], ["fin", 19, 26]]}
+{"text": "FIN: Y1H6WXP. Telefon: +994 50 731 27 74. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["fin", 5, 12], ["phone", 23, 40]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "IBAN: AZ30 TEST EJ2U TWF0 NIZV UH2F QNJK. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["iban", 6, 40]]}
+{"text": "Telefon: 0514160257. Tarix 2026-10-18 olaraq qeyd edildi. IBAN: AZ96TESTSD7YDLW9HS2EMBIVXPNQ. ", "gold": [["phone", 9, 19], ["iban", 64, 92]]}
+{"text": "Kart nömrəsi: 4407495027531304. FIN: XUG2ABV. ", "gold": [["fin", 37, 44]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Kart: 4085 2756 4919 9070. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["card", 40, 59]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "FIN: WZBGW7Y. ", "gold": [["fin", 5, 12]]}
+{"text": "Kart: 4401 3061 0957 1610. Sifariş nömrəsi: 0263315929. E-poçt: cxgewlgtn@example.org. ", "gold": [["card", 6, 25], ["email", 64, 85]]}
+{"text": "Əməliyyat uğurla tamamlandı. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. Zəhmət olmasa sənədləri yoxlayın. Kart: 4361542658794009. ", "gold": [["card", 73, 89]]}
+{"text": "IBAN: AZ95 SAMP DTW4 5GSR RGT7 WETR LCCX. Müştəri sorğusu qəbul olundu. IBAN: AZ85SAMPF52VGCG4L4IXB5JCML0Z. ", "gold": [["iban", 6, 40], ["iban", 78, 106]]}
+{"text": "Sifariş nömrəsi: 0767692345. E-poçt: qcxpljyg@test.net. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["email", 37, 54]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Kart: 4810 7771 5333 8616. ", "gold": [["card", 43, 62]]}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. Kart: 4587-7388-7557-1083. IBAN: AZ85SAMP1QUNY49ACC89W9RR3KUR. ", "gold": [["card", 35, 54], ["iban", 62, 90]]}
+{"text": "IBAN: AZ49 TEST B9LL WG9D 04CB CF2V CR91. Telefon: +994 70 525 51 22. ", "gold": [["iban", 6, 40], ["phone", 51, 68]]}
+{"text": "Müştəri sorğusu qəbul olundu. FIN: OBE2QQ5. ", "gold": [["fin", 35, 42]]}
+{"text": "IBAN: AZ57 TEST CK8Z 2RBO LO4G NO47 IC6V. ", "gold": [["iban", 6, 40]]}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Kart: 4964 8250 9395 9514. Kart: 4934-6997-5165-1227. IBAN: AZ33TESTP5WMIXWWCE3N5DD5XTCE. ", "gold": [["card", 6, 25], ["card", 33, 52], ["iban", 60, 88]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "IBAN: AZ600AMP43129949783907267556. Əməliyyat uğurla tamamlandı. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "E-poçt: nkexjwah@test.net. Kart: 4059 8260 7831 0182. ", "gold": [["email", 8, 25], ["card", 33, 52]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Kart nömrəsi: 4392573112909697. Müştəri sorğusu qəbul olundu. Telefon: +994 50 556 56 18. ", "gold": [["phone", 71, 88]]}
+{"text": "FIN: 3A9DAXZ. IBAN: AZ32DEMOG88Z3AKPC2F53V1QEPN8. FIN: MDM2CSY. ", "gold": [["fin", 5, 12], ["iban", 20, 48], ["fin", 55, 62]]}
+{"text": "Kart: 4742974751943581. ", "gold": [["card", 6, 22]]}
+{"text": "FIN: TU4JOPJ. E-poçt: wsio@example.org. Sifariş nömrəsi: 0904765370. ", "gold": [["fin", 5, 12], ["email", 22, 38]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Telefon: 051-319-69-93. ", "gold": [["phone", 9, 22]]}
+{"text": "Müştəri sorğusu qəbul olundu. Telefon: +994 70 731 35 06. ", "gold": [["phone", 39, 56]]}
+{"text": "Əməliyyat uğurla tamamlandı. Məbləğ 1500.00 AZN təşkil edir. E-poçt: xnexjuxl@test.net. ", "gold": [["email", 69, 86]]}
+{"text": "Telefon: +994 77 161 93 48. IBAN: AZ320EMO26135522638296323570. Telefon: 0990520255. ", "gold": [["phone", 9, 26], ["phone", 73, 83]]}
+{"text": "İstinad kodu AB12345 göndərildi. Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. Kart: 4790351831043339. E-poçt: qmnjjiplz@example.com. ", "gold": [["card", 39, 55], ["email", 65, 86]]}
+{"text": "E-poçt: rkezfqk@test.net. Müştəri sorğusu qəbul olundu. Kart nömrəsi: 4378446018462079. ", "gold": [["email", 8, 24]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Telefon: 0776946961. Müştəri sorğusu qəbul olundu. ", "gold": [["phone", 48, 58]]}
+{"text": "FIN: W52DXBJ. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["fin", 5, 12]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "IBAN: AZ86TESTFD9JBUEF9T6QPHP6B9MT. Kart nömrəsi: 4191955766413337. ", "gold": [["iban", 6, 34]]}
+{"text": "Kart: 4361 6933 5763 8615. Telefon: 077-669-10-23. ", "gold": [["card", 6, 25], ["phone", 36, 49]]}
+{"text": "İstinad kodu AB12345 göndərildi. Kart nömrəsi: 4042486368915249. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Kart nömrəsi: 4773786594406334. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "FIN: SOHSVAD. ", "gold": [["fin", 5, 12]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Tarix 2026-10-18 olaraq qeyd edildi. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Kart nömrəsi: 4079939437190133. Telefon: 0709209334. ", "gold": [["phone", 75, 85]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. IBAN: AZ840EST63067065100979478727. Kart: 4085-7497-2153-3018. ", "gold": [["card", 79, 98]]}
+{"text": "IBAN: AZ52 TEST O31E NVUU A8KH C8SE T58T. FIN: NT0HJQ0. İstinad kodu AB12345 göndərildi. ", "gold": [["iban", 6, 40], ["fin", 47, 54]]}
+{"text": "FIN: 7IZ0E7O. ", "gold": [["fin", 5, 12]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "FIN: 46N77YN. İstinad kodu AB12345 göndərildi. ", "gold": [["fin", 5, 12]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "FIN: Q0J1A02. ", "gold": [["fin", 5, 12]]}
+{"text": "Kart: 4911-2162-7607-2081. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["card", 6, 25]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "FIN: U9KCIVP. Kart: 4917882025566360. ", "gold": [["fin", 5, 12], ["card", 20, 36]]}
+{"text": "Sifariş nömrəsi: 0731705651. Kart: 4314921504292046. IBAN: AZ13 SAMP KFU6 UIE0 HFCT ZKMY WCV7. ", "gold": [["card", 35, 51], ["iban", 59, 93]]}
+{"text": "IBAN: AZ950EMO57619796528170148846. ", "gold": []}
+{"text": "Telefon: 099-697-74-27. Kart: 4141703385784674. ", "gold": [["phone", 9, 22], ["card", 30, 46]]}
+{"text": "Kart: 4643 8137 1519 9619. Zəhmət olmasa sənədləri yoxlayın. Müştəri sorğusu qəbul olundu. ", "gold": [["card", 6, 25]]}
+{"text": "E-poçt: yyyrvb@test.net. İstinad kodu AB12345 göndərildi. ", "gold": [["email", 8, 23]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "FIN: Q1CTOY5. ", "gold": [["fin", 5, 12]]}
+{"text": "Sifariş nömrəsi: 0698497676. E-poçt: vakrju@example.com. ", "gold": [["email", 37, 55]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. E-poçt: vyusoxq@example.com. ", "gold": [["email", 40, 59]]}
+{"text": "FIN: PULJM5Z. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["fin", 5, 12]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Kart: 4543-1056-9627-9648. Tarix 2026-10-18 olaraq qeyd edildi. Kart: 4157-7836-1347-6922. ", "gold": [["card", 6, 25], ["card", 70, 89]]}
+{"text": "İstinad kodu AB12345 göndərildi. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "FIN: 7YDL1CJ. ", "gold": [["fin", 5, 12]]}
+{"text": "Müştəri sorğusu qəbul olundu. Kart nömrəsi: 4342109184931078. ", "gold": []}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "Kart: 4662-9746-3488-1418. ", "gold": [["card", 6, 25]]}
+{"text": "İstinad kodu AB12345 göndərildi. Zəhmət olmasa sənədləri yoxlayın. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Telefon: 0505978524. ", "gold": [["phone", 9, 19]]}
+{"text": "Kart: 4180 0695 8052 0822. ", "gold": [["card", 6, 25]]}
+{"text": "Müştəri sorğusu qəbul olundu. E-poçt: fkijkkic@example.com. Kart nömrəsi: 4868708205495460. ", "gold": [["email", 38, 58]]}
+{"text": "Kart: 4773-8956-7797-8934. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["card", 6, 25]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. IBAN: AZ950AMP08069420947629215373. Sifariş nömrəsi: 0234287156. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Zəhmət olmasa sənədləri yoxlayın. Kart: 4959-3798-8128-1936. ", "gold": [["card", 77, 96]]}
+{"text": "İstinad kodu AB12345 göndərildi. E-poçt: tuebhwb@example.org. Kart nömrəsi: 4256985190573937. ", "gold": [["email", 41, 60]]}
+{"text": "Kart: 4186 7637 1532 4142. Tarix 2026-10-18 olaraq qeyd edildi. İstinad kodu AB12345 göndərildi. ", "gold": [["card", 6, 25]]}
+{"text": "FIN: L9I1YGD. İstinad kodu AB12345 göndərildi. ", "gold": [["fin", 5, 12]]}
+{"text": "Müştəri sorğusu qəbul olundu. Əməliyyat uğurla tamamlandı. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "IBAN: AZ14 DEMO 8S85 Y3Z2 O6HJ ZD53 L6P6. Əməliyyat uğurla tamamlandı. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["iban", 6, 40]]}
+{"text": "Telefon: 055-255-13-44. ", "gold": [["phone", 9, 22]]}
+{"text": "Sifariş nömrəsi: 0675508442. Müştəri sorğusu qəbul olundu. FIN: 9UR0QYZ. ", "gold": [["fin", 64, 71]]}
+{"text": "Əməliyyat uğurla tamamlandı. FIN: M2UH1CW. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["fin", 34, 41]]}
+{"text": "Kart nömrəsi: 4553703207983134. Kart: 4295 6547 7772 2224. Kart: 4004670966427617. ", "gold": [["card", 38, 57], ["card", 65, 81]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "FIN: 3K5AQYW. ", "gold": [["fin", 5, 12]]}
+{"text": "E-poçt: nxoo@example.com. Kart: 4862243893101613. Müştəri sorğusu qəbul olundu. ", "gold": [["email", 8, 24], ["card", 32, 48]]}
+{"text": "Telefon: +994 51 715 19 01. İstinad kodu AB12345 göndərildi. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["phone", 9, 26]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. IBAN: AZ310AMP69933775648918632226. ", "gold": []}
+{"text": "IBAN: AZ12 SAMP ZBBD LU5A REL0 WW6H 2U5O. IBAN: AZ93 DEMO 5VVM 2MRU MB4O GYIX X9NV. IBAN: AZ61TESTL76ZAPW4NUD47FEUO6ZG. ", "gold": [["iban", 6, 40], ["iban", 48, 82], ["iban", 90, 118]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Sifariş nömrəsi: 0528349715. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. Kart: 4213156743785979. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["card", 35, 51]]}
+{"text": "Əməliyyat uğurla tamamlandı. Kart: 4188-0096-1697-5766. ", "gold": [["card", 35, 54]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Kart: 4945-4239-5530-2579. ", "gold": [["card", 43, 62]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. IBAN: AZ040EMO11482661986349274837. FIN: PDU5K4C. ", "gold": [["fin", 78, 85]]}
+{"text": "FIN: 69KFUFX. İstinad kodu AB12345 göndərildi. ", "gold": [["fin", 5, 12]]}
+{"text": "IBAN: AZ080AMP78096305684781740487. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "Telefon: 0506092597. IBAN: AZ37 TEST 7GCA NLBP BXEO OAGD A5OQ. ", "gold": [["phone", 9, 19], ["iban", 27, 61]]}
+{"text": "Sifariş nömrəsi: 0322071078. Telefon: 051-184-17-90. IBAN: AZ840EMO60217790057528435124. ", "gold": [["phone", 38, 51]]}
+{"text": "FIN: CGSY0E8. Sorğu 3 gün ərzində cavablandırılacaq. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["fin", 5, 12]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. E-poçt: ugud@example.com. ", "gold": [["email", 45, 61]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0249337602. Kart: 4218 1447 8713 3665. ", "gold": [["card", 35, 54]]}
+{"text": "Kart nömrəsi: 4523435970991898. Məbləğ 1500.00 AZN təşkil edir. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "FIN: 7SSFPYS. IBAN: AZ64 SAMP TE3Z 2OSA B29G DMG0 9S1O. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["fin", 5, 12], ["iban", 20, 54]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. E-poçt: uhlssr@example.org. Telefon: 0518559791. ", "gold": [["email", 42, 60], ["phone", 71, 81]]}
+{"text": "Əməliyyat uğurla tamamlandı. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. IBAN: AZ31TEST5TQC4S2WE3IO21AZ9MAR. Kart nömrəsi: 4017586710703168. ", "gold": [["iban", 40, 68]]}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. İstinad kodu AB12345 göndərildi. Telefon: +994 77 637 85 11. ", "gold": [["phone", 74, 91]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "E-poçt: ywgoa@test.net. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["email", 8, 22]]}
+{"text": "Kart: 4969637134427590. İstinad kodu AB12345 göndərildi. FIN: 7ZJHC19. ", "gold": [["card", 6, 22], ["fin", 62, 69]]}
+{"text": "Sifariş nömrəsi: 0076200462. IBAN: AZ42TESTB2SIN6BTABQVJN4T8QJS. IBAN: AZ300EMO80954025134674496570. ", "gold": [["iban", 35, 63]]}
+{"text": "Kart: 4695-9244-0779-6336. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["card", 6, 25]]}
+{"text": "IBAN: AZ860AMP26268267610493865533. Məbləğ 1500.00 AZN təşkil edir. Telefon: 0999767314. ", "gold": [["phone", 77, 87]]}
+{"text": "FIN: 0NZUQ2R. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["fin", 5, 12]]}
+{"text": "Müştəri sorğusu qəbul olundu. E-poçt: ljeuvjwdt@example.org. ", "gold": [["email", 38, 59]]}
+{"text": "FIN: 550VO3S. ", "gold": [["fin", 5, 12]]}
+{"text": "Əməliyyat uğurla tamamlandı. Kart: 4234-1363-0176-5840. İstinad kodu AB12345 göndərildi. ", "gold": [["card", 35, 54]]}
+{"text": "E-poçt: ncnqpx@test.net. FIN: LYCGMEG. FIN: THGZ96G. ", "gold": [["email", 8, 23], ["fin", 30, 37], ["fin", 44, 51]]}
+{"text": "Kart: 4975 8005 0383 0651. Müştəri sorğusu qəbul olundu. Müştəri sorğusu qəbul olundu. ", "gold": [["card", 6, 25]]}
+{"text": "Kart: 4092 9605 4509 6824. ", "gold": [["card", 6, 25]]}
+{"text": "Kart: 4464 5465 9710 3848. Sifariş nömrəsi: 0104436012. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["card", 6, 25]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Kart: 4854 9255 6863 5574. Müştəri sorğusu qəbul olundu. ", "gold": [["card", 6, 25]]}
+{"text": "Sifariş nömrəsi: 0679642065. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0118600435. ", "gold": []}
+{"text": "Kart: 4530-2757-3338-4787. ", "gold": [["card", 6, 25]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "E-poçt: izlzpw@example.org. ", "gold": [["email", 8, 26]]}
+{"text": "IBAN: AZ20 DEMO E85I 2ADV I3AI 397C DI33. ", "gold": [["iban", 6, 40]]}
+{"text": "Kart: 4510-8807-0032-8933. Məbləğ 1500.00 AZN təşkil edir. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["card", 6, 25]]}
+{"text": "Telefon: +994 99 473 73 26. IBAN: AZ19 DEMO RTWC NY29 RCTR SYNS TCJK. ", "gold": [["phone", 9, 26], ["iban", 34, 68]]}
+{"text": "E-poçt: zkrx@example.org. Əməliyyat uğurla tamamlandı. Müştəri sorğusu qəbul olundu. ", "gold": [["email", 8, 24]]}
+{"text": "Kart: 4586096913523231. ", "gold": [["card", 6, 22]]}
+{"text": "Telefon: 0774241255. ", "gold": [["phone", 9, 19]]}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Kart: 4374-9767-8390-3066. Kart: 4134510062164073. ", "gold": [["card", 6, 25], ["card", 33, 49]]}
+{"text": "Telefon: 0771132967. FIN: LYSSVJ4. ", "gold": [["phone", 9, 19], ["fin", 26, 33]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. IBAN: AZ390AMP82307981473281097413. Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Telefon: 070-943-05-79. ", "gold": [["phone", 9, 22]]}
+{"text": "Kart: 4398-2505-8137-5931. Telefon: +994 99 289 86 36. ", "gold": [["card", 6, 25], ["phone", 36, 53]]}
+{"text": "Telefon: 051-476-00-64. ", "gold": [["phone", 9, 22]]}
+{"text": "Kart: 4073234720484996. FIN: X7MAZU4. ", "gold": [["card", 6, 22], ["fin", 29, 36]]}
+{"text": "Müştəri sorğusu qəbul olundu. IBAN: AZ910EST93047221060006601616. ", "gold": []}
+{"text": "IBAN: AZ54TEST88S91J8UB6P3H7P2CCTU. Kart: 4392-3756-9788-1013. ", "gold": [["iban", 6, 34], ["card", 42, 61]]}
+{"text": "Kart: 4800540458509493. ", "gold": [["card", 6, 22]]}
+{"text": "Telefon: 0996895171. IBAN: AZ730EST41180129639060229601. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["phone", 9, 19]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "E-poçt: wqnq@example.org. Sifariş nömrəsi: 0810363935. ", "gold": [["email", 8, 24]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Kart: 4900-5554-0891-7405. Kart: 4846806300516895. ", "gold": [["card", 6, 25], ["card", 33, 49]]}
+{"text": "E-poçt: lyqizbz@example.com. ", "gold": [["email", 8, 27]]}
+{"text": "Telefon: 055-334-74-56. E-poçt: jzucccyfc@example.org. ", "gold": [["phone", 9, 22], ["email", 32, 53]]}
+{"text": "E-poçt: jjsemicbb@example.com. ", "gold": [["email", 8, 29]]}
+{"text": "Müştəri sorğusu qəbul olundu. Telefon: 055-056-48-84. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["phone", 39, 52]]}
+{"text": "E-poçt: hxla@example.com. Kart: 4668302219975781. Kart nömrəsi: 4971751142404223. ", "gold": [["email", 8, 24], ["card", 32, 48]]}
+{"text": "E-poçt: zyojr@example.com. Kart: 4143 7670 9826 2474. ", "gold": [["email", 8, 25], ["card", 33, 52]]}
+{"text": "E-poçt: pcedjzxc@example.org. ", "gold": [["email", 8, 28]]}
+{"text": "IBAN: AZ14 DEMO XKVS QO2O M5PC D4JQ 0IYH. Telefon: +994 99 554 42 12. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["iban", 6, 40], ["phone", 51, 68]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "FIN: Y3NU2MM. E-poçt: oeniqhf@test.net. ", "gold": [["fin", 5, 12], ["email", 22, 38]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Sifariş nömrəsi: 0338853998. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "FIN: WGV09BY. ", "gold": [["fin", 5, 12]]}
+{"text": "E-poçt: sczurg@example.com. IBAN: AZ96TESTSIA7HGJE6W00W8H5N2Y7. ", "gold": [["email", 8, 26], ["iban", 34, 62]]}
+{"text": "Telefon: +994 51 779 59 27. ", "gold": [["phone", 9, 26]]}
+{"text": "İstinad kodu AB12345 göndərildi. IBAN: AZ700EMO25680890883269596235. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Kart nömrəsi: 4145238164580545. ", "gold": []}
+{"text": "Telefon: 051-283-33-99. Sorğu 3 gün ərzində cavablandırılacaq. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["phone", 9, 22]]}
+{"text": "İstinad kodu AB12345 göndərildi. IBAN: AZ46 DEMO JI3A M2G9 ONX8 G3KH 0RHF. ", "gold": [["iban", 39, 73]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Kart nömrəsi: 4517842614392201. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Telefon: +994 99 358 75 32. Əməliyyat uğurla tamamlandı. Müştəri sorğusu qəbul olundu. ", "gold": [["phone", 9, 26]]}
+{"text": "IBAN: AZ17 DEMO 3NHL 4D2X 8A6X D7P3 M4FJ. ", "gold": [["iban", 6, 40]]}
+{"text": "Əməliyyat uğurla tamamlandı. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "E-poçt: soylmjl@test.net. IBAN: AZ150AMP39287422125955247928. ", "gold": [["email", 8, 24]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "IBAN: AZ280AMP02128002461674483176. Müştəri sorğusu qəbul olundu. Kart nömrəsi: 4765379720065578. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. FIN: FHWJU5F. ", "gold": [["fin", 34, 41]]}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Kart: 4835997400938148. IBAN: AZ940AMP01641392562383454294. ", "gold": [["card", 6, 22]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Kart: 4824-5894-5822-7095. E-poçt: bfieu@example.com. Telefon: +994 55 084 92 66. ", "gold": [["card", 6, 25], ["email", 35, 52], ["phone", 63, 80]]}
+{"text": "Əməliyyat uğurla tamamlandı. Sorğu 3 gün ərzində cavablandırılacaq. Kart nömrəsi: 4398199205898003. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "E-poçt: ihikrq@example.com. Kart: 4138-1307-9867-2194. ", "gold": [["email", 8, 26], ["card", 34, 53]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "Kart: 4670 1617 4117 0824. IBAN: AZ66 TEST A4C9 5Y2A H2ZR EBWT WNSJ. Kart: 4409-8717-2029-4472. ", "gold": [["card", 6, 25], ["iban", 33, 67], ["card", 75, 94]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0787683247. İstinad kodu AB12345 göndərildi. Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "FIN: 39SM7NT. E-poçt: wllo@test.net. Kart: 4130 1992 7203 9400. ", "gold": [["fin", 5, 12], ["email", 22, 35], ["card", 43, 62]]}
+{"text": "FIN: G4OUPUP. FIN: G96GN2B. Kart: 4186 2840 0203 6802. ", "gold": [["fin", 5, 12], ["fin", 19, 26], ["card", 34, 53]]}
+{"text": "Müştəri sorğusu qəbul olundu. FIN: 90OS1DX. ", "gold": [["fin", 35, 42]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Kart: 4696-9311-1395-8885. Telefon: +994 50 088 47 29. ", "gold": [["card", 6, 25], ["phone", 36, 53]]}
+{"text": "FIN: KKMJ4OW. ", "gold": [["fin", 5, 12]]}
+{"text": "FIN: 2EY3XES. Müştəri sorğusu qəbul olundu. Kart: 4688700302996729. ", "gold": [["fin", 5, 12], ["card", 50, 66]]}
+{"text": "FIN: 7SJTKLH. ", "gold": [["fin", 5, 12]]}
+{"text": "IBAN: AZ23 DEMO PVGA UWAD JKHA L9D6 WFAA. ", "gold": [["iban", 6, 40]]}
+{"text": "Kart: 4002982256493262. ", "gold": [["card", 6, 22]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Kart: 4387209013423282. Kart nömrəsi: 4969105424045101. Kart nömrəsi: 4218667075416682. ", "gold": [["card", 6, 22]]}
+{"text": "İstinad kodu AB12345 göndərildi. FIN: QSMH9LD. ", "gold": [["fin", 38, 45]]}
+{"text": "E-poçt: dapite@test.net. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["email", 8, 23]]}
+{"text": "Müştəri sorğusu qəbul olundu. Telefon: 055-732-24-99. Sifariş nömrəsi: 0002932759. ", "gold": [["phone", 39, 52]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. IBAN: AZ340EMO28999767032488119060. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Kart: 4205 1122 4456 9651. İstinad kodu AB12345 göndərildi. Kart nömrəsi: 4034044962363538. ", "gold": [["card", 6, 25]]}
+{"text": "Telefon: +994 51 682 06 41. Telefon: 055-913-50-71. ", "gold": [["phone", 9, 26], ["phone", 37, 50]]}
+{"text": "Telefon: 050-523-89-82. Telefon: 070-416-53-02. ", "gold": [["phone", 9, 22], ["phone", 33, 46]]}
+{"text": "Telefon: 0777569182. Sorğu 3 gün ərzində cavablandırılacaq. Kart nömrəsi: 4234722853608891. ", "gold": [["phone", 9, 19]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "IBAN: AZ97DEMOQPD1ZGNZ7EXWHS6KQBT1. ", "gold": [["iban", 6, 34]]}
+{"text": "FIN: Z4HT3J8. Telefon: 0775351500. ", "gold": [["fin", 5, 12], ["phone", 23, 33]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. IBAN: AZ68 DEMO GRL3 5FQI YIZO CMVX CV9G. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["iban", 45, 79]]}
+{"text": "Telefon: 055-356-27-16. ", "gold": [["phone", 9, 22]]}
+{"text": "IBAN: AZ19SAMPC7KYOOKEUQWP223LP736. ", "gold": [["iban", 6, 34]]}
+{"text": "İstinad kodu AB12345 göndərildi. Telefon: +994 51 262 82 56. ", "gold": [["phone", 42, 59]]}
+{"text": "Sifariş nömrəsi: 0041527024. ", "gold": []}
+{"text": "Kart nömrəsi: 4711058987140580. Zəhmət olmasa sənədləri yoxlayın. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0347157490. FIN: IC4YKWV. IBAN: AZ19SAMP792DKD7WMQ0XWZ2P6VUJ. ", "gold": [["fin", 34, 41], ["iban", 49, 77]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Kart: 4856 9290 5139 8938. Əməliyyat uğurla tamamlandı. Kart: 4972863358907795. ", "gold": [["card", 6, 25], ["card", 62, 78]]}
+{"text": "E-poçt: okybcg@test.net. Telefon: 0705908545. FIN: 86VR7YE. ", "gold": [["email", 8, 23], ["phone", 34, 44], ["fin", 51, 58]]}
+{"text": "Sifariş nömrəsi: 0460459321. Kart: 4468 8618 4366 3990. İstinad kodu AB12345 göndərildi. ", "gold": [["card", 35, 54]]}
+{"text": "Əməliyyat uğurla tamamlandı. Kart nömrəsi: 4774776933671739. ", "gold": []}
+{"text": "E-poçt: ffyporzhb@example.com. ", "gold": [["email", 8, 29]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Kart nömrəsi: 4124557670726408. Telefon: +994 50 891 79 00. ", "gold": [["phone", 78, 95]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Kart: 4895-6479-5659-6538. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["card", 45, 64]]}
+{"text": "Telefon: 0558834021. ", "gold": [["phone", 9, 19]]}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Kart nömrəsi: 4289454001364045. Müştəri sorğusu qəbul olundu. Telefon: 055-904-17-81. ", "gold": [["phone", 71, 84]]}
+{"text": "IBAN: AZ83 SAMP 8NBW J387 UCP6 F4A3 RFYP. IBAN: AZ56SAMP2DUHI86HSV5HEU6AWM5F. ", "gold": [["iban", 6, 40], ["iban", 48, 76]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "IBAN: AZ870EST68264767535592325841. Kart: 4010 7349 8622 8512. İstinad kodu AB12345 göndərildi. ", "gold": [["card", 42, 61]]}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Telefon: 0995826644. IBAN: AZ82TEST1Z0SXVQA8I7F6N6PTYV8. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["phone", 9, 19], ["iban", 27, 55]]}
+{"text": "Telefon: 0705448150. IBAN: AZ33SAMPNATBG7GXW39KL92TVA7D. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["phone", 9, 19], ["iban", 27, 55]]}
+{"text": "FIN: B2S876O. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["fin", 5, 12]]}
+{"text": "Telefon: 055-518-74-12. ", "gold": [["phone", 9, 22]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Zəhmət olmasa sənədləri yoxlayın. E-poçt: mhfhihr@example.com. ", "gold": [["email", 79, 98]]}
+{"text": "Müştəri sorğusu qəbul olundu. IBAN: AZ950EST08439599727559251623. ", "gold": []}
+{"text": "FIN: S207A8T. Sorğu 3 gün ərzində cavablandırılacaq. İstinad kodu AB12345 göndərildi. ", "gold": [["fin", 5, 12]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Kart nömrəsi: 4999875818711948. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "E-poçt: brxk@test.net. Sorğu 3 gün ərzində cavablandırılacaq. E-poçt: gxfap@example.org. ", "gold": [["email", 8, 21], ["email", 70, 87]]}
+{"text": "IBAN: AZ160EMO88737414237761227307. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. FIN: B4E8XKO. Telefon: 0558374810. ", "gold": [["fin", 38, 45], ["phone", 56, 66]]}
+{"text": "IBAN: AZ49 SAMP 73JE CMC5 J9Y1 SFN3 H9NB. ", "gold": [["iban", 6, 40]]}
+{"text": "IBAN: AZ560EMO06133742318369525259. IBAN: AZ19 SAMP MCLL 7HBJ 15VU W34U 7O5K. ", "gold": [["iban", 42, 76]]}
+{"text": "İstinad kodu AB12345 göndərildi. IBAN: AZ86 DEMO S4ZE TMMO 42P9 65Z2 3BN1. ", "gold": [["iban", 39, 73]]}
+{"text": "Telefon: +994 51 732 01 94. IBAN: AZ800EMO04170037662145300548. ", "gold": [["phone", 9, 26]]}
+{"text": "Kart nömrəsi: 4659409716133871. E-poçt: eviri@example.org. Əməliyyat uğurla tamamlandı. ", "gold": [["email", 40, 57]]}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Kart: 4494 1448 8251 7080. ", "gold": [["card", 6, 25]]}
+{"text": "Telefon: 0770240637. Zəhmət olmasa sənədləri yoxlayın. Əməliyyat uğurla tamamlandı. ", "gold": [["phone", 9, 19]]}
+{"text": "İstinad kodu AB12345 göndərildi. Əməliyyat uğurla tamamlandı. IBAN: AZ83 DEMO GXGH SIDQ 7OGP PPXU 3FU4. ", "gold": [["iban", 68, 102]]}
+{"text": "Əməliyyat uğurla tamamlandı. E-poçt: mrbbv@example.com. ", "gold": [["email", 37, 54]]}
+{"text": "IBAN: AZ46DEMOU3RNR6072EN0MNUIO73U. ", "gold": [["iban", 6, 34]]}
+{"text": "E-poçt: ylowhs@example.org. ", "gold": [["email", 8, 26]]}
+{"text": "IBAN: AZ90 TEST BJRJ TOR7 X9ZH V75M 8ER0. ", "gold": [["iban", 6, 40]]}
+{"text": "FIN: ZZKDFDS. ", "gold": [["fin", 5, 12]]}
+{"text": "Kart: 4418-5991-1380-7647. Tarix 2026-10-18 olaraq qeyd edildi. IBAN: AZ86 TEST FRZK SEV6 3HTC XZ4M TA6M. ", "gold": [["card", 6, 25], ["iban", 70, 104]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "IBAN: AZ18 SAMP XATT 82E6 WVJO THBI ZJ35. Zəhmət olmasa sənədləri yoxlayın. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["iban", 6, 40]]}
+{"text": "Sifariş nömrəsi: 0183420752. Kart nömrəsi: 4090502530541365. Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Telefon: 050-614-35-19. ", "gold": [["phone", 9, 22]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Telefon: +994 99 122 70 46. ", "gold": [["phone", 9, 26]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. Əməliyyat uğurla tamamlandı. IBAN: AZ970AMP14121772744582063063. ", "gold": []}
+{"text": "E-poçt: utgmmrpwu@example.com. Zəhmət olmasa sənədləri yoxlayın. Müştəri sorğusu qəbul olundu. ", "gold": [["email", 8, 29]]}
+{"text": "İstinad kodu AB12345 göndərildi. FIN: FZFL27D. Kart: 4902759682281904. ", "gold": [["fin", 38, 45], ["card", 53, 69]]}
+{"text": "IBAN: AZ620EST95354100121792652379. Telefon: +994 51 397 78 67. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["phone", 45, 62]]}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "Kart: 4466 9974 1441 5477. ", "gold": [["card", 6, 25]]}
+{"text": "Sifariş nömrəsi: 0837429449. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0826156392. Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Kart: 4747-8452-4555-8992. ", "gold": [["card", 6, 25]]}
+{"text": "Telefon: 0773953939. ", "gold": [["phone", 9, 19]]}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "E-poçt: luuocbelo@example.org. Kart: 4741502938104628. ", "gold": [["email", 8, 29], ["card", 37, 53]]}
+{"text": "Kart nömrəsi: 4686228302230736. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. Sifariş nömrəsi: 0074467432. Sifariş nömrəsi: 0602831192. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. E-poçt: yhxiptq@example.org. ", "gold": [["email", 45, 64]]}
+{"text": "Telefon: +994 55 521 74 54. IBAN: AZ81 TEST GPS7 RXQL PIJL GCS1 XN1H. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["phone", 9, 26], ["iban", 34, 68]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. Sifariş nömrəsi: 0306007577. Kart nömrəsi: 4362401696369003. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Kart nömrəsi: 4959768514050984. Telefon: 070-800-46-91. IBAN: AZ67 TEST MTOY Z036 Q46I 7DYR LKL9. ", "gold": [["phone", 41, 54], ["iban", 62, 96]]}
+{"text": "FIN: 47G3UJS. Kart: 4688-3442-7525-9920. ", "gold": [["fin", 5, 12], ["card", 20, 39]]}
+{"text": "E-poçt: agmnxo@example.org. IBAN: AZ24 DEMO IPZL QV22 JOAO MVCY 5MFJ. ", "gold": [["email", 8, 26], ["iban", 34, 68]]}
+{"text": "Telefon: 0704097413. Kart: 4487-9868-1304-2953. Əməliyyat uğurla tamamlandı. ", "gold": [["phone", 9, 19], ["card", 27, 46]]}
+{"text": "Telefon: +994 50 472 78 70. ", "gold": [["phone", 9, 26]]}
+{"text": "Müştəri sorğusu qəbul olundu. IBAN: AZ79 DEMO UHYX PQZS M9HN LHGT ZDMM. ", "gold": [["iban", 36, 70]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. IBAN: AZ020AMP93724610441029371430. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0929024080. E-poçt: uzyd@test.net. ", "gold": [["email", 37, 50]]}
+{"text": "E-poçt: fxqpnha@example.org. Əməliyyat uğurla tamamlandı. ", "gold": [["email", 8, 27]]}
+{"text": "IBAN: AZ34 SAMP J0K3 1GCB K2FV I7JT RUTO. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["iban", 6, 40]]}
+{"text": "Telefon: 0996980028. İstinad kodu AB12345 göndərildi. ", "gold": [["phone", 9, 19]]}
+{"text": "Kart: 4638 9038 8749 7953. Müştəri sorğusu qəbul olundu. ", "gold": [["card", 6, 25]]}
+{"text": "FIN: YVH2663. ", "gold": [["fin", 5, 12]]}
+{"text": "E-poçt: gpaalcfqq@example.com. Sorğu 3 gün ərzində cavablandırılacaq. IBAN: AZ93DEMOHN2R5BOKUJX4EZQC31YG. ", "gold": [["email", 8, 29], ["iban", 76, 104]]}
+{"text": "FIN: 5701Y2Y. Sorğu 3 gün ərzində cavablandırılacaq. E-poçt: ijhxxpm@example.org. ", "gold": [["fin", 5, 12], ["email", 61, 80]]}
+{"text": "Telefon: +994 51 632 16 23. ", "gold": [["phone", 9, 26]]}
+{"text": "E-poçt: heemu@test.net. ", "gold": [["email", 8, 22]]}
+{"text": "E-poçt: wzzum@example.com. FIN: POFLCP4. ", "gold": [["email", 8, 25], ["fin", 32, 39]]}
+{"text": "E-poçt: vsmbbyn@example.org. Kart: 4579-8634-5966-0852. Kart nömrəsi: 4904829102589233. ", "gold": [["email", 8, 27], ["card", 35, 54]]}
+{"text": "E-poçt: wfpzkpxlf@test.net. Tarix 2026-10-18 olaraq qeyd edildi. Müştəri sorğusu qəbul olundu. ", "gold": [["email", 8, 26]]}
+{"text": "Müştəri sorğusu qəbul olundu. Telefon: 0501336573. ", "gold": [["phone", 39, 49]]}
+{"text": "Telefon: 0770268743. IBAN: AZ050EST29882593443016793339. ", "gold": [["phone", 9, 19]]}
+{"text": "Sifariş nömrəsi: 0614030712. E-poçt: xnwnspdp@example.com. ", "gold": [["email", 37, 57]]}
+{"text": "E-poçt: unvcombi@test.net. Əməliyyat uğurla tamamlandı. ", "gold": [["email", 8, 25]]}
+{"text": "FIN: G3P16V4. ", "gold": [["fin", 5, 12]]}
+{"text": "İstinad kodu AB12345 göndərildi. IBAN: AZ90 SAMP C3SL BTLN 978N FSNV N8RZ. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["iban", 39, 73]]}
+{"text": "FIN: C3CVQ6E. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["fin", 5, 12]]}
+{"text": "Kart nömrəsi: 4271355564984394. Kart: 4445 0467 8629 7489. ", "gold": [["card", 38, 57]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0413183065. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "FIN: FXO7A9G. Kart nömrəsi: 4695852498214094. Kart: 4020-7815-5817-1628. ", "gold": [["fin", 5, 12], ["card", 52, 71]]}
+{"text": "Kart: 4510115586212343. IBAN: AZ65TESTT780S43810DTKQ9P6C46. Əməliyyat uğurla tamamlandı. ", "gold": [["card", 6, 22], ["iban", 30, 58]]}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Kart nömrəsi: 4005759219243754. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "IBAN: AZ050EST91071539238743003437. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0617463915. Zəhmət olmasa sənədləri yoxlayın. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "E-poçt: llcqfvlsk@test.net. FIN: IFZZJE6. ", "gold": [["email", 8, 26], ["fin", 33, 40]]}
+{"text": "İstinad kodu AB12345 göndərildi. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. FIN: YQ9BDME. ", "gold": [["fin", 37, 44]]}
+{"text": "Kart: 4501395490257649. ", "gold": [["card", 6, 22]]}
+{"text": "Kart: 4387-4356-8664-5121. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["card", 6, 25]]}
+{"text": "Kart: 4838722329767544. Sorğu 3 gün ərzində cavablandırılacaq. Əməliyyat uğurla tamamlandı. ", "gold": [["card", 6, 22]]}
+{"text": "E-poçt: qfpbyrdk@example.org. ", "gold": [["email", 8, 28]]}
+{"text": "Müştəri sorğusu qəbul olundu. Kart: 4552-1984-9091-4401. ", "gold": [["card", 36, 55]]}
+{"text": "Əməliyyat uğurla tamamlandı. Sifariş nömrəsi: 0934028860. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "IBAN: AZ17DEMOWI6VMJ90K06F4M17S6PI. ", "gold": [["iban", 6, 34]]}
+{"text": "Sifariş nömrəsi: 0116909207. Müştəri sorğusu qəbul olundu. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. E-poçt: fbughjc@example.org. ", "gold": [["email", 42, 61]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Kart: 4100612104569549. ", "gold": [["card", 6, 22]]}
+{"text": "Müştəri sorğusu qəbul olundu. Kart: 4117-3340-3691-7065. Müştəri sorğusu qəbul olundu. ", "gold": [["card", 36, 55]]}
+{"text": "IBAN: AZ080EST04687733458753064411. Müştəri sorğusu qəbul olundu. Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Telefon: 0501564940. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["phone", 9, 19]]}
+{"text": "IBAN: AZ84 DEMO A9SQ X2EV 5NZ5 QQ4J XAPU. Telefon: 050-244-44-03. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["iban", 6, 40], ["phone", 51, 64]]}
+{"text": "FIN: 53NVD6F. IBAN: AZ86 DEMO HIG4 4KQ8 9T8S E45X 1QUP. Kart: 4539-9286-4926-9689. ", "gold": [["fin", 5, 12], ["iban", 20, 54], ["card", 62, 81]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "FIN: 5CFBLGA. ", "gold": [["fin", 5, 12]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Əməliyyat uğurla tamamlandı. IBAN: AZ670EMO37730236716227600085. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Sifariş nömrəsi: 0631619494. Telefon: 0512269048. ", "gold": [["phone", 72, 82]]}
+{"text": "FIN: XKWH5OR. ", "gold": [["fin", 5, 12]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "IBAN: AZ26 SAMP T6G2 9YY3 7H9N 8991 W2K4. Müştəri sorğusu qəbul olundu. IBAN: AZ32 TEST LYKB 45AK FVZX KF1Y J2H6. ", "gold": [["iban", 6, 40], ["iban", 78, 112]]}
+{"text": "IBAN: AZ31TESTHR2GK8T7L34T0BOPF46E. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["iban", 6, 34]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "IBAN: AZ50 DEMO 7A49 4CUX WPRQ T9P6 YL83. ", "gold": [["iban", 6, 40]]}
+{"text": "Kart: 4473 2896 4390 4070. Sifariş nömrəsi: 0204232178. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["card", 6, 25]]}
+{"text": "IBAN: AZ88 DEMO CKXT 7BFJ 1QOD V2VR 41HB. Sifariş nömrəsi: 0248852965. ", "gold": [["iban", 6, 40]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Kart: 4397-3342-7675-6596. IBAN: AZ86DEMODYWGZ2YIMXRU2Y8DZLAP. ", "gold": [["card", 40, 59], ["iban", 67, 95]]}
+{"text": "FIN: 1Y4SDIY. Məbləğ 1500.00 AZN təşkil edir. FIN: MPAMQYM. ", "gold": [["fin", 5, 12], ["fin", 51, 58]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Telefon: +994 50 196 40 73. ", "gold": [["phone", 9, 26]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. IBAN: AZ510EMO95559473971190458061. ", "gold": []}
+{"text": "E-poçt: kzxob@example.org. E-poçt: ibrp@example.org. ", "gold": [["email", 8, 25], ["email", 35, 51]]}
+{"text": "Kart: 4976-6165-8486-9072. İstinad kodu AB12345 göndərildi. Kart: 4815 5609 5785 4706. ", "gold": [["card", 6, 25], ["card", 66, 85]]}
+{"text": "Kart nömrəsi: 4318263635922499. Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "E-poçt: trwrakwtz@example.com. Zəhmət olmasa sənədləri yoxlayın. IBAN: AZ330AMP51051622689226320510. ", "gold": [["email", 8, 29]]}
+{"text": "E-poçt: lztvzut@test.net. İstinad kodu AB12345 göndərildi. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["email", 8, 24]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Müştəri sorğusu qəbul olundu. Kart: 4412447418291669. ", "gold": [["card", 68, 84]]}
+{"text": "Telefon: 0558746985. FIN: VUAE845. Kart: 4224-7534-5389-3550. ", "gold": [["phone", 9, 19], ["fin", 26, 33], ["card", 41, 60]]}
+{"text": "Kart: 4981 5099 0338 5552. Kart: 4750 7226 8928 4175. ", "gold": [["card", 6, 25], ["card", 33, 52]]}
+{"text": "E-poçt: htukipju@test.net. Tarix 2026-10-18 olaraq qeyd edildi. Müştəri sorğusu qəbul olundu. ", "gold": [["email", 8, 25]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Kart: 4177428101920736. FIN: KYGOKZF. ", "gold": [["card", 6, 22], ["fin", 29, 36]]}
+{"text": "IBAN: AZ20SAMPAFYO0P0LI70CZQ2P4904. IBAN: AZ240EST01400393817294733625. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["iban", 6, 34]]}
+{"text": "E-poçt: nauh@example.org. ", "gold": [["email", 8, 24]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Kart: 4699355373490016. ", "gold": [["card", 43, 59]]}
+{"text": "Kart: 4212 5949 7656 5158. ", "gold": [["card", 6, 25]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Sorğu 3 gün ərzində cavablandırılacaq. Telefon: +994 77 795 93 29. ", "gold": [["phone", 87, 104]]}
+{"text": "FIN: ZP2LLC6. E-poçt: wrxvn@test.net. Telefon: 099-797-68-55. ", "gold": [["fin", 5, 12], ["email", 22, 36], ["phone", 47, 60]]}
+{"text": "E-poçt: llifnzkc@example.com. ", "gold": [["email", 8, 28]]}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Əməliyyat uğurla tamamlandı. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "IBAN: AZ90DEMOEWUZHW7NSDTN3MUASMCJ. ", "gold": [["iban", 6, 34]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Kart: 4783079763011474. ", "gold": [["card", 6, 22]]}
+{"text": "Telefon: 099-184-80-43. Telefon: 0553703037. Kart: 4629-0885-6569-8600. ", "gold": [["phone", 9, 22], ["phone", 33, 43], ["card", 51, 70]]}
+{"text": "IBAN: AZ59SAMPILMJ15904Q9P66P0D9DR. Kart nömrəsi: 4795833492955386. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["iban", 6, 34]]}
+{"text": "IBAN: AZ67 DEMO W8AM 23AL UX7V ICXU ALRH. ", "gold": [["iban", 6, 40]]}
+{"text": "FIN: 9FUYWO0. Müştəri sorğusu qəbul olundu. ", "gold": [["fin", 5, 12]]}
+{"text": "Kart: 4702-3258-0600-9142. FIN: 93K1DFQ. ", "gold": [["card", 6, 25], ["fin", 32, 39]]}
+{"text": "FIN: Y7BL6U5. Əməliyyat uğurla tamamlandı. IBAN: AZ95 TEST H9IR U2AA 6TZ3 QHGV P75W. ", "gold": [["fin", 5, 12], ["iban", 49, 83]]}
+{"text": "FIN: 0TDTR9G. IBAN: AZ500EST01142274611205104695. Kart: 4350 7304 6896 5553. ", "gold": [["fin", 5, 12], ["card", 56, 75]]}
+{"text": "Kart: 4554 6435 7216 9521. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["card", 6, 25]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. FIN: 4G88VEG. ", "gold": [["fin", 44, 51]]}
+{"text": "Kart: 4300 9058 1809 3444. IBAN: AZ64DEMOOK695R1TW3PTSDOSWBCC. E-poçt: khbvrbiqx@example.org. ", "gold": [["card", 6, 25], ["iban", 33, 61], ["email", 71, 92]]}
+{"text": "E-poçt: kdcttbjvv@example.org. İstinad kodu AB12345 göndərildi. E-poçt: zqednig@example.org. ", "gold": [["email", 8, 29], ["email", 72, 91]]}
+{"text": "Sifariş nömrəsi: 0631848712. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Telefon: +994 77 084 93 03. IBAN: AZ39DEMOY6ME7JOVRKW8PU8NQG1R. ", "gold": [["phone", 43, 60], ["iban", 68, 96]]}
+{"text": "IBAN: AZ320AMP81821321865814542663. Kart nömrəsi: 4669483651093224. IBAN: AZ470EMO88672105406480577056. ", "gold": []}
+{"text": "Kart: 4810503391161952. Telefon: 0990034514. Kart: 4808 6837 1392 4271. ", "gold": [["card", 6, 22], ["phone", 33, 43], ["card", 51, 70]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Kart: 4109-1044-9385-2117. ", "gold": [["card", 43, 62]]}
+{"text": "Telefon: 0550462626. ", "gold": [["phone", 9, 19]]}
+{"text": "IBAN: AZ37 DEMO ZWD1 DY6O P2H2 9NLI Z61U. ", "gold": [["iban", 6, 40]]}
+{"text": "E-poçt: cvejwogn@test.net. Telefon: 051-602-53-70. Telefon: 0704747105. ", "gold": [["email", 8, 25], ["phone", 36, 49], ["phone", 60, 70]]}
+{"text": "Kart: 4070 0127 5857 4141. Sifariş nömrəsi: 0558227739. E-poçt: bijcpcr@test.net. ", "gold": [["card", 6, 25], ["email", 64, 80]]}
+{"text": "E-poçt: plgeed@example.org. Telefon: 051-826-81-24. ", "gold": [["email", 8, 26], ["phone", 37, 50]]}
+{"text": "Telefon: 070-439-51-46. ", "gold": [["phone", 9, 22]]}
+{"text": "Telefon: 0516630246. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["phone", 9, 19]]}
+{"text": "Telefon: 055-436-07-82. Telefon: +994 55 158 48 62. FIN: 1X41DQQ. ", "gold": [["phone", 9, 22], ["phone", 33, 50], ["fin", 57, 64]]}
+{"text": "Telefon: 050-589-89-72. ", "gold": [["phone", 9, 22]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Kart nömrəsi: 4049274683963778. ", "gold": []}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "IBAN: AZ500EMO72849650476538275716. İstinad kodu AB12345 göndərildi. E-poçt: zydtdvo@example.org. ", "gold": [["email", 77, 96]]}
+{"text": "Sifariş nömrəsi: 0863545691. Kart nömrəsi: 4737005783481858. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. E-poçt: ugydd@example.com. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["email", 40, 57]]}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. Sifariş nömrəsi: 0457441800. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Məbləğ 1500.00 AZN təşkil edir. Kart nömrəsi: 4609675659358953. ", "gold": []}
+{"text": "Kart: 4174-7546-8075-0274. Telefon: +994 55 366 33 87. ", "gold": [["card", 6, 25], ["phone", 36, 53]]}
+{"text": "E-poçt: boft@example.com. FIN: Q0GYSKP. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["email", 8, 24], ["fin", 31, 38]]}
+{"text": "Əməliyyat uğurla tamamlandı. FIN: APURCNH. ", "gold": [["fin", 34, 41]]}
+{"text": "İstinad kodu AB12345 göndərildi. Kart nömrəsi: 4227354353358410. ", "gold": []}
+{"text": "FIN: N10OO5R. FIN: VAPFJ6L. ", "gold": [["fin", 5, 12], ["fin", 19, 26]]}
+{"text": "Telefon: 051-016-76-92. Telefon: 0519399699. Əməliyyat uğurla tamamlandı. ", "gold": [["phone", 9, 22], ["phone", 33, 43]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Telefon: +994 51 851 21 47. Kart: 4290-2113-5083-2725. ", "gold": [["phone", 46, 63], ["card", 71, 90]]}
+{"text": "IBAN: AZ670EMO00219352271614564047. ", "gold": []}
+{"text": "E-poçt: krduoa@example.com. Kart nömrəsi: 4071328287848727. İstinad kodu AB12345 göndərildi. ", "gold": [["email", 8, 26]]}
+{"text": "E-poçt: opjuezbo@test.net. Sifariş nömrəsi: 0449059213. ", "gold": [["email", 8, 25]]}
+{"text": "Kart: 4067-9540-7204-0413. ", "gold": [["card", 6, 25]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Telefon: 0705578381. ", "gold": [["phone", 48, 58]]}
+{"text": "Sifariş nömrəsi: 0608385376. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "IBAN: AZ41SAMPZH3GWW4LNR9O2YCLEW9O. Zəhmət olmasa sənədləri yoxlayın. İstinad kodu AB12345 göndərildi. ", "gold": [["iban", 6, 34]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Məbləğ 1500.00 AZN təşkil edir. Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Sorğu 3 gün ərzində cavablandırılacaq. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Kart: 4751 5681 4801 7386. ", "gold": [["card", 6, 25]]}
+{"text": "E-poçt: pootjzi@test.net. Tarix 2026-10-18 olaraq qeyd edildi. Telefon: 0501264585. ", "gold": [["email", 8, 24], ["phone", 72, 82]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. E-poçt: dcnyv@example.org. Telefon: +994 55 447 29 09. ", "gold": [["email", 45, 62], ["phone", 73, 90]]}
+{"text": "FIN: 55BJ8EW. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["fin", 5, 12]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0794890468. İstinad kodu AB12345 göndərildi. IBAN: AZ48 DEMO AUBK JZLA 7EV0 222G 2EOK. ", "gold": [["iban", 68, 102]]}
+{"text": "E-poçt: tpmuytq@test.net. Kart: 4682640810843516. IBAN: AZ810EMO00174930771889242253. ", "gold": [["email", 8, 24], ["card", 32, 48]]}
+{"text": "IBAN: AZ37 SAMP SSQI 0DUO 5MYL 5D1P E8WT. Kart nömrəsi: 4394343922060570. FIN: JC86UQA. ", "gold": [["iban", 6, 40], ["fin", 79, 86]]}
+{"text": "Kart nömrəsi: 4604433161473380. Məbləğ 1500.00 AZN təşkil edir. E-poçt: pnpj@test.net. ", "gold": [["email", 72, 85]]}
+{"text": "Kart: 4714 5672 8634 3063. Sorğu 3 gün ərzində cavablandırılacaq. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["card", 6, 25]]}
+{"text": "Kart nömrəsi: 4852529832621718. Kart nömrəsi: 4710604989750263. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "E-poçt: ioeiiw@test.net. IBAN: AZ510EMO33553324432445145277. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["email", 8, 23]]}
+{"text": "FIN: 65LETW4. ", "gold": [["fin", 5, 12]]}
+{"text": "FIN: DWRPI2A. FIN: VXJGDUH. Əməliyyat uğurla tamamlandı. ", "gold": [["fin", 5, 12], ["fin", 19, 26]]}
+{"text": "Telefon: 055-875-47-62. E-poçt: ofwe@example.org. IBAN: AZ38SAMPYGAJ53225M3H2J6S4IHY. ", "gold": [["phone", 9, 22], ["email", 32, 48], ["iban", 56, 84]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Sifariş nömrəsi: 0090817621. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "IBAN: AZ93 DEMO 71YE YGZC 0WLA LGI7 2UWI. FIN: UWHGRFJ. ", "gold": [["iban", 6, 40], ["fin", 47, 54]]}
+{"text": "IBAN: AZ11 SAMP QB4C Q5HK OHMZ P99G 8PW4. ", "gold": [["iban", 6, 40]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0630137910. E-poçt: fzdu@test.net. Əməliyyat uğurla tamamlandı. ", "gold": [["email", 37, 50]]}
+{"text": "FIN: LEGS30Q. ", "gold": [["fin", 5, 12]]}
+{"text": "IBAN: AZ050EST20062661685814492413. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0623726792. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "FIN: T882PM1. IBAN: AZ330EMO46766358617076753655. ", "gold": [["fin", 5, 12]]}
+{"text": "IBAN: AZ66 TEST DSNK EDIO 7ZSM ZD5P H9ML. ", "gold": [["iban", 6, 40]]}
+{"text": "Kart: 4749835520104214. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["card", 6, 22]]}
+{"text": "FIN: 39O3LTH. ", "gold": [["fin", 5, 12]]}
+{"text": "Telefon: +994 50 784 91 01. Əməliyyat uğurla tamamlandı. ", "gold": [["phone", 9, 26]]}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "FIN: DJ9YP1S. E-poçt: cdbxbcrgy@example.org. ", "gold": [["fin", 5, 12], ["email", 22, 43]]}
+{"text": "Müştəri sorğusu qəbul olundu. Sifariş nömrəsi: 0380684710. Telefon: 077-923-96-54. ", "gold": [["phone", 68, 81]]}
+{"text": "Kart nömrəsi: 4123940231416761. İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "E-poçt: ceauh@example.com. Sifariş nömrəsi: 0765790386. IBAN: AZ890EMO08863831124121725228. ", "gold": [["email", 8, 25]]}
+{"text": "Kart nömrəsi: 4982762433590932. ", "gold": []}
+{"text": "Telefon: 055-034-66-63. Telefon: 0502531082. Müştəri sorğusu qəbul olundu. ", "gold": [["phone", 9, 22], ["phone", 33, 43]]}
+{"text": "IBAN: AZ86DEMOZGL9ZEEHGUZ57479GZJ9. Məbləğ 1500.00 AZN təşkil edir. E-poçt: safw@test.net. ", "gold": [["iban", 6, 34], ["email", 76, 89]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "IBAN: AZ76DEMOT7XH4C6AAKAQQ2PSBBR4. ", "gold": [["iban", 6, 34]]}
+{"text": "FIN: Y1WHBXV. Telefon: +994 50 269 52 87. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["fin", 5, 12], ["phone", 23, 40]]}
+{"text": "FIN: 7LPDV9Q. IBAN: AZ380AMP82804391658780587748. ", "gold": [["fin", 5, 12]]}
+{"text": "Telefon: +994 51 365 75 26. ", "gold": [["phone", 9, 26]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "Kart: 4737 4394 8241 0893. IBAN: AZ910AMP02069542267161668943. Sifariş nömrəsi: 0975494260. ", "gold": [["card", 6, 25]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Telefon: 051-640-55-29. Zəhmət olmasa sənədləri yoxlayın. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["phone", 9, 22]]}
+{"text": "Sifariş nömrəsi: 0715598909. FIN: TXAC7WS. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["fin", 34, 41]]}
+{"text": "FIN: IOQYA7Z. IBAN: AZ58DEMOA7GXO144XGRFYOIELIS7. IBAN: AZ20TESTYXJT3T54WJK69OZOP0AP. ", "gold": [["fin", 5, 12], ["iban", 20, 48], ["iban", 56, 84]]}
+{"text": "Telefon: 0993166557. E-poçt: xxdtrz@example.org. FIN: B6B7ALS. ", "gold": [["phone", 9, 19], ["email", 29, 47], ["fin", 54, 61]]}
+{"text": "Kart: 4280 3852 3871 1558. Müştəri sorğusu qəbul olundu. ", "gold": [["card", 6, 25]]}
+{"text": "Kart: 4528-5318-8681-4564. Müştəri sorğusu qəbul olundu. ", "gold": [["card", 6, 25]]}
+{"text": "FIN: BGYGJU7. ", "gold": [["fin", 5, 12]]}
+{"text": "IBAN: AZ950EST19306837368359635397. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. IBAN: AZ260EMO27300032177039566880. Sifariş nömrəsi: 0266238192. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Sifariş nömrəsi: 0530025975. Sifariş nömrəsi: 0838874408. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. E-poçt: ohvwv@example.org. ", "gold": [["email", 42, 59]]}
+{"text": "E-poçt: stbwj@test.net. Sorğu 3 gün ərzində cavablandırılacaq. Telefon: 070-112-96-57. ", "gold": [["email", 8, 22], ["phone", 72, 85]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "IBAN: AZ68 DEMO VXY5 KHUP TM4Y VNR5 JEIT. IBAN: AZ120EMO40968658056345342260. FIN: RVOIF1J. ", "gold": [["iban", 6, 40], ["fin", 83, 90]]}
+{"text": "FIN: XHSVGWS. ", "gold": [["fin", 5, 12]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. IBAN: AZ85 DEMO 2Y91 CAON FYLH XUBH LDTG. ", "gold": [["iban", 43, 77]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "IBAN: AZ46 DEMO 6U5I 1YX9 2R1X II5E 09E7. Kart: 4429415347280401. ", "gold": [["iban", 6, 40], ["card", 48, 64]]}
+{"text": "FIN: M73ZK1U. ", "gold": [["fin", 5, 12]]}
+{"text": "IBAN: AZ20 SAMP 9LAF TMFP FDU4 DVK7 1JLB. ", "gold": [["iban", 6, 40]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Tarix 2026-10-18 olaraq qeyd edildi. Telefon: +994 50 003 91 87. ", "gold": [["phone", 78, 95]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "FIN: C2CD8QO. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": [["fin", 5, 12]]}
+{"text": "IBAN: AZ530EMO03127037555310764931. ", "gold": []}
+{"text": "FIN: 2KKZWC4. ", "gold": [["fin", 5, 12]]}
+{"text": "Kart: 4872 4837 4042 2659. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["card", 6, 25]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Zəhmət olmasa sənədləri yoxlayın. Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Kart nömrəsi: 4522895343640343. Müştəri sorğusu qəbul olundu. Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. Əməliyyat uğurla tamamlandı. IBAN: AZ970AMP86417203099099680705. ", "gold": []}
+{"text": "Kart nömrəsi: 4424155880677862. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Kart: 4666270867449692. IBAN: AZ400EST28430819232722438519. ", "gold": [["card", 6, 22]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. E-poçt: wexbm@example.com. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["email", 42, 59]]}
+{"text": "Telefon: +994 50 469 42 91. ", "gold": [["phone", 9, 26]]}
+{"text": "Kart nömrəsi: 4209823015097444. FIN: 1YXB6MT. ", "gold": [["fin", 37, 44]]}
+{"text": "Kart nömrəsi: 4699272714155508. Kart nömrəsi: 4619306726175489. ", "gold": []}
+{"text": "FIN: BSMM9P4. Kart nömrəsi: 4265655181087929. Telefon: 055-586-58-80. ", "gold": [["fin", 5, 12], ["phone", 55, 68]]}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. Sifariş nömrəsi: 0312294720. E-poçt: clvmvii@test.net. ", "gold": [["email", 74, 90]]}
+{"text": "Kart nömrəsi: 4132564258634392. ", "gold": []}
+{"text": "Telefon: 0775775081. ", "gold": [["phone", 9, 19]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Kart nömrəsi: 4000549229931711. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. E-poçt: xtsolda@example.org. Kart nömrəsi: 4088303225102157. ", "gold": [["email", 45, 64]]}
+{"text": "FIN: SWXFV5Z. ", "gold": [["fin", 5, 12]]}
+{"text": "Telefon: 055-438-90-58. Sifariş nömrəsi: 0240109987. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": [["phone", 9, 22]]}
+{"text": "Telefon: 077-330-55-09. ", "gold": [["phone", 9, 22]]}
+{"text": "Kart: 4089-9010-3039-1820. E-poçt: sdawque@example.org. ", "gold": [["card", 6, 25], ["email", 35, 54]]}
+{"text": "E-poçt: grpp@example.com. ", "gold": [["email", 8, 24]]}
+{"text": "E-poçt: wbzzow@test.net. Zəhmət olmasa sənədləri yoxlayın. IBAN: AZ800AMP11614840055264680581. ", "gold": [["email", 8, 23]]}
+{"text": "İstinad kodu AB12345 göndərildi. İstinad kodu AB12345 göndərildi. FIN: TGOZI4J. ", "gold": [["fin", 71, 78]]}
+{"text": "Telefon: 050-079-68-78. E-poçt: cgpqnt@example.org. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["phone", 9, 22], ["email", 32, 50]]}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. FIN: H62VK94. ", "gold": [["fin", 44, 51]]}
+{"text": "Müştəri sorğusu qəbul olundu. E-poçt: habgvw@test.net. E-poçt: tuybmfj@example.com. ", "gold": [["email", 38, 53], ["email", 63, 82]]}
+{"text": "İstinad kodu AB12345 göndərildi. Tarix 2026-10-18 olaraq qeyd edildi. IBAN: AZ900EMO86690661094061695871. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0007376932. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "IBAN: AZ060EST86252990261216133377. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. FIN: XTO239H. ", "gold": [["fin", 42, 49]]}
+{"text": "FIN: 0IHGH1P. Kart nömrəsi: 4772709189322386. ", "gold": [["fin", 5, 12]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. IBAN: AZ05 SAMP FB7T 4OD6 CRKW I930 QGQG. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["iban", 38, 72]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "FIN: WL63393. Tarix 2026-10-18 olaraq qeyd edildi. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["fin", 5, 12]]}
+{"text": "Telefon: +994 55 396 52 13. Məbləğ 1500.00 AZN təşkil edir. Əməliyyat uğurla tamamlandı. ", "gold": [["phone", 9, 26]]}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. E-poçt: qydypnigt@example.org. Zəhmət olmasa sənədləri yoxlayın. ", "gold": [["email", 38, 59]]}
+{"text": "Məbləğ 1500.00 AZN təşkil edir. Telefon: +994 55 547 55 60. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["phone", 41, 58]]}
+{"text": "Kart nömrəsi: 4947958896287743. Kart nömrəsi: 4659231573975131. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Telefon: 077-136-50-62. ", "gold": [["phone", 43, 56]]}
+{"text": "FIN: B0SF5SF. E-poçt: ramgsxp@test.net. Sifariş nömrəsi: 0097372105. ", "gold": [["fin", 5, 12], ["email", 22, 38]]}
+{"text": "Kart: 4999717411066586. Telefon: 050-212-87-72. ", "gold": [["card", 6, 22], ["phone", 33, 46]]}
+{"text": "IBAN: AZ91 DEMO AT9S FFBD 5TIJ OIHC V6X9. İstinad kodu AB12345 göndərildi. İstinad kodu AB12345 göndərildi. ", "gold": [["iban", 6, 40]]}
+{"text": "IBAN: AZ69 TEST JRS2 ZHQL LO2M IZLR WLDH. ", "gold": [["iban", 6, 40]]}
+{"text": "Əməliyyat uğurla tamamlandı. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0444124305. IBAN: AZ930EST97462530313746221327. IBAN: AZ91 DEMO BF05 ATIK 70HB 5Q4Q UL5O. ", "gold": [["iban", 71, 105]]}
+{"text": "FIN: I2I46N3. E-poçt: hljd@example.org. ", "gold": [["fin", 5, 12], ["email", 22, 38]]}
+{"text": "Kart: 4741-3359-9925-0406. FIN: 152094I. ", "gold": [["card", 6, 25], ["fin", 32, 39]]}
+{"text": "Telefon: 0703627120. ", "gold": [["phone", 9, 19]]}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. ", "gold": []}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. Telefon: 0517160840. ", "gold": [["phone", 43, 53]]}
+{"text": "FIN: AL7C4NU. ", "gold": [["fin", 5, 12]]}
+{"text": "Əməliyyat uğurla tamamlandı. Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Sifariş nömrəsi: 0471901433. ", "gold": []}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Kart nömrəsi: 4897291050313232. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. Məbləğ 1500.00 AZN təşkil edir. ", "gold": []}
+{"text": "İstinad kodu AB12345 göndərildi. ", "gold": []}
+{"text": "Telefon: 051-795-27-57. FIN: KUABGZQ. Əməliyyat uğurla tamamlandı. ", "gold": [["phone", 9, 22], ["fin", 29, 36]]}
+{"text": "Müştəri sorğusu qəbul olundu. ", "gold": []}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Telefon: 0502137422. ", "gold": [["phone", 48, 58]]}
+{"text": "IBAN: AZ73DEMOSLT8PIGPUSOOU2G6SC1X. Telefon: 050-623-69-25. ", "gold": [["iban", 6, 34], ["phone", 45, 58]]}
+{"text": "FIN: IZWR5GU. ", "gold": [["fin", 5, 12]]}
+{"text": "Müştəri sorğusu qəbul olundu. E-poçt: vxjsdc@example.org. IBAN: AZ980EMO95229850283802545055. ", "gold": [["email", 38, 56]]}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. Əməliyyat uğurla tamamlandı. Sifariş nömrəsi: 0604198761. ", "gold": []}
+{"text": "Sorğu 3 gün ərzində cavablandırılacaq. FIN: KSA41KG. ", "gold": [["fin", 44, 51]]}
+{"text": "Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "Tarix 2026-10-18 olaraq qeyd edildi. FIN: 0EYAD86. Kart: 4816-7381-2968-8249. ", "gold": [["fin", 42, 49], ["card", 57, 76]]}
+{"text": "Sifariş nömrəsi: 0295619721. Zəhmət olmasa sənədləri yoxlayın. ", "gold": []}
+{"text": "IBAN: AZ52 TEST QVSP 1HDT NO3Q XX1Z 1TP0. IBAN: AZ180EMO15903803083974499661. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["iban", 6, 40]]}
+{"text": "İstinad kodu AB12345 göndərildi. Kart: 4818-7835-0522-9356. Məbləğ 1500.00 AZN təşkil edir. ", "gold": [["card", 39, 58]]}
+{"text": "Telefon: 0508467387. ", "gold": [["phone", 9, 19]]}
+{"text": "Müştəri sorğusu qəbul olundu. Sorğu 3 gün ərzində cavablandırılacaq. ", "gold": []}
+{"text": "IBAN: AZ30 DEMO 3YYM PG9N Q0WO 3U12 FJW3. Məbləğ 1500.00 AZN təşkil edir. E-poçt: oxwdtlwrg@example.com. ", "gold": [["iban", 6, 40], ["email", 82, 103]]}
+{"text": "Müştəri sorğusu qəbul olundu. E-poçt: aqdhj@example.com. Kart: 4391 3122 8574 0443. ", "gold": [["email", 38, 55], ["card", 63, 82]]}
+{"text": "Kart nömrəsi: 4190893941226798. Telefon: +994 77 392 98 71. ", "gold": [["phone", 41, 58]]}
