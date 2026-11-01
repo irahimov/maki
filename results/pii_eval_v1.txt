@@ -1,0 +1,15 @@
+PII masker: synthetic evaluation
+SYNTHETIC DATA ONLY. Generator and detector share formats, check digits and prefixes.
+The numbers measure consistency, not accuracy on real text. Hard negatives are included.
+seed=20261018 samples=1000 gold_items=905
+
+tür        TP   FP   FN  precision   recall
+iban      167    0    0      1.000    1.000
+card      187    0    0      1.000    1.000
+phone     193   98    0      0.663    1.000
+email     173    0    0      1.000    1.000
+fin       185    0    0      1.000    1.000
+ALL       905   98    0      0.902    1.000
+
+FP = detector flagged something that is not a gold item (includes hard negatives).
+FN = gold item not flagged. n/a = zero denominator.

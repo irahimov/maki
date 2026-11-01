@@ -17,7 +17,15 @@ KEEP = 4
 EMAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}")
 IBAN = re.compile(r"\bAZ\d{2}(?: ?[A-Z0-9]{4}){6}\b")
 CARD = re.compile(r"(?<!\d)(?:\d[ -]?){12,18}\d(?!\d)")
-PHONE = re.compile(r"(?<!\d)(?:\+994|0)[ -]?\d{2}[ -]?\d{3}[ -]?\d{2}[ -]?\d{2}(?!\d)")
+# +994 prefix: detected without context. 0-prefix: only with a phone word or an operator code.
+# Operator codes are NOT verified against an official list; see README.
+OPERATOR_CODES = ("50", "51", "55", "70", "77", "99")
+SEP = r"[ -]?"
+PHONE_INTL = re.compile(r"(?<!\d)\+994" + SEP + r"\d{2}" + SEP + r"\d{3}" + SEP + r"\d{2}" + SEP + r"\d{2}(?!\d)")
+PHONE_LOCAL = re.compile(
+    r"(?:(?i:telefon|tel|mobil)[:\s-]*)?(?<!\d)0(?:" + "|".join(OPERATOR_CODES) + r")"
+    + SEP + r"\d{3}" + SEP + r"\d{2}" + SEP + r"\d{2}(?!\d)"
+)
 FIN = re.compile(r"\b(?:FIN|FİN)\b[:\s-]*([A-Z0-9]{7})\b")
 
 
@@ -87,8 +95,9 @@ def find(text: str) -> list[Hit]:
         digits = re.sub(r"\D", "", m.group())
         if 13 <= len(digits) <= 19 and luhn_ok(digits):
             add("card", *m.span())
-    for m in PHONE.finditer(text):
-        add("phone", *m.span())
+    for rx in (PHONE_INTL, PHONE_LOCAL):
+        for m in rx.finditer(text):
+            add("phone", *m.span())
     for m in FIN.finditer(text):
         add("fin", *m.span(1))
     return sorted(hits, key=lambda h: h.start)
