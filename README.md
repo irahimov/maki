@@ -1,5 +1,14 @@
 # MAKI: a validation harness for local LLM coding agents
 
+[![ci](https://github.com/irahimov/maki/actions/workflows/ci.yml/badge.svg)](https://github.com/irahimov/maki/actions/workflows/ci.yml)
+
+**TL;DR**
+- Measured: a local 7B coder (Qwen2.5-Coder) passes 10-30% of medium-difficulty tasks (n=10 per configuration) and 100% of simple ones; planning did not raise the pass rate.
+- Hidden tests are checked against reference solutions (69 tests, all pass) and CI runs them on every push.
+- New: a rule-based PII masker (`src/pii_masker.py`). Synthetic precision 0.998, recall 1.000. Both numbers are circular and do not measure real text. See [PII section](#pii-masker).
+- Main limitation: small samples, one model, one machine. The judge and RAG components are not measured.
+- Related: [HallucinationLab](https://github.com/irahimov/HallucinationLab) (LLM-as-judge validation), [ModelCourt](https://github.com/irahimov/modelcourt) (credit model validation).
+
 MAKI runs a small local coding pipeline (Ollama + LangGraph) on a laptop GPU (RTX 4050, 6 GB VRAM, WSL2): task text in, code and tests out, checked with ruff and pytest, committed on a throwaway git branch that you accept or reject.
 
 The pipeline is the small part. The point of this repo is the **measurement around it**: hidden tests the agent never sees, validated against reference solutions, repeated runs, ablations and a failure taxonomy. Everything below is a small-sample result from one model on one machine. Read the limitations.
@@ -9,13 +18,33 @@ The pipeline is the small part. The point of this repo is the **measurement arou
 | Path | What it does |
 |---|---|
 | `crew.py` | Pipeline: optional planner, coder (qwen2.5-coder 7B), checks (ruff, pytest, AST stub detector), optional LLM reviewer |
-| `analyzer.py` | Rule-based task complexity estimate (simple / medium / complex) and a capability table for routing. Implemented but not wired in: `crew.py` never writes the table and always skips planning, so the analyzer only logs its estimate |
+| `analyzer.py` | Rule-based task complexity estimate (simple / medium / complex) and a capability table for routing. Called by `crew.py` in the plan step; its level and score are logged, not used for routing (the planner is always skipped). The capability table is never written |
 | `rag.py` | Local RAG over project files (ChromaDB + nomic-embed-text). Implemented, **not measured** (disabled in all evals) |
 | `verify.py` | Deterministic judge: ruff + pyright + pytest coverage. Not wired into `crew.py` |
 | `eval/` | Evaluation harness: tasks with hidden tests, runner, comparison and failure analysis scripts |
 | `bin/ai-env` | CLI: `agent`, `accept`, `reject`, `rag`, `doctor`, `clean`, `stop`, `vram`, `gui` |
 | `openwebui_pipe.py` | Open WebUI function that exposes the pipeline as a model |
 | `tests/` | Unit tests for the analyzer and pipeline helpers |
+
+## PII masker
+
+`src/pii_masker.py` finds and masks e-mail, Azerbaijani IBAN (mod-97 checked), payment card numbers (Luhn checked), Azerbaijani phone numbers and FIN codes. The last 4 characters stay visible, the rest become `*`.
+
+Measured on `scripts/pii_eval.py` (1000 synthetic samples, seed 20261018, `results/pii_eval.txt`):
+
+| Kind  | Precision | Recall |
+|-------|-----------|--------|
+| iban  | 1.000     | 1.000  |
+| card  | 1.000     | 1.000  |
+| phone | 0.990     | 1.000  |
+| email | 1.000     | 1.000  |
+| fin   | 1.000     | 1.000  |
+
+What these numbers do **not** show:
+- The generator and the detector share formats, check digits and operator codes. Recall 1.000 measures consistency, not accuracy on real text.
+- Phone operator codes (`50, 51, 55, 70, 77, 99`) are not verified against an official list. A 0-prefixed 10-digit order number whose first two digits match an operator code is detected (2 false positives in the sample, both order numbers).
+- The FIN format (7 uppercase letters or digits, only after the word FIN) is an assumption, not checked against an official specification.
+- The masker is not wired into `crew.py`. It is a standalone module.
 
 ## Method
 
